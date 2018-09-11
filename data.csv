@@ -1,0 +1,2001 @@
+Tax Year,Login Date,Completed_Product,Marketing_Channel,CUSTOMER_TYPE,Login_Flag,Completed,Session_Count,Price
+TY13,12/31/2013,(null),Paid Search,(null),1,0,(null),(null)
+TY13,12/31/2013,Premier,Organic Search,New,1,1,0,$59.99
+TY13,1/2/2014,Deluxe,Organic Search,New,1,1,0,$39.99
+TY13,1/2/2014,Free,Non-Campaign,New,1,1,0,$0.00
+TY13,1/4/2014,Premier,Non-Campaign,New,1,1,0,$59.99
+TY13,1/5/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/5/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,1/7/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,1/8/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,1/10/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,1/10/2014,H & B,Non-Campaign,Veteran,1,1,0,$99.99
+TY13,1/12/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,1/14/2014,Free,FI Channel,Veteran,1,1,0,$0.00
+TY13,1/14/2014,Free,Organic Search,Veteran,1,1,0,$0.00
+TY13,1/15/2014,Free,Organic Search,Veteran,1,1,0,$0.00
+TY13,1/15/2014,Free,Affiliate,New,1,1,0,$0.00
+TY13,1/17/2014,Free,Non-Campaign,New,1,1,1,$0.00
+TY13,1/17/2014,Free,Paid Search,New,1,1,0,$0.00
+TY13,1/18/2014,Deluxe,DR,New,1,1,0,$39.99
+TY13,1/18/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,1/18/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,1/19/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,1/19/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,1/20/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,1/20/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,1/21/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,1/21/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,1/21/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,1/21/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,1/21/2014,Free,Non-Campaign,New,1,1,3,$0.00
+TY13,1/21/2014,Free,Paid Search,New,1,1,2,$0.00
+TY13,1/22/2014,Deluxe,DR,New,1,1,1,$39.99
+TY13,1/22/2014,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY13,1/22/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,1/23/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,1/23/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/23/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,1/23/2014,Deluxe,FI Channel,Veteran,1,1,11,$39.99
+TY13,1/23/2014,Free,Organic Search,Veteran,1,1,0,$0.00
+TY13,1/23/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,1/23/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,1/24/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,1/24/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,1/24/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,1/24/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,1/24/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/24/2014,Free,Affiliate,Veteran,1,1,3,$0.00
+TY13,1/24/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,1/24/2014,Free,Display,Veteran,1,1,0,$0.00
+TY13,1/25/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,1/25/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/25/2014,Free,Display,Veteran,1,1,2,$0.00
+TY13,1/25/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,1/25/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,1/26/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,1/26/2014,(null),DR,(null),1,0,1,(null)
+TY13,1/26/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/26/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,1/26/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,1/26/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,1/26/2014,Free,FI Channel,Veteran,1,1,1,$0.00
+TY13,1/27/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,1/27/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,1/27/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/27/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/27/2014,(null),Paid Search,(null),1,0,1,(null)
+TY13,1/27/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,1/27/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,1/27/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,1/27/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,1/27/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,1/28/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,1/28/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,1/28/2014,Free,Organic Search,Veteran,1,1,4,$0.00
+TY13,1/28/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,1/28/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,1/29/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,1/29/2014,Deluxe,DR,Veteran,1,1,0,$39.99
+TY13,1/29/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,1/29/2014,Deluxe,Non-Campaign,New,1,1,0,$39.99
+TY13,1/29/2014,Free,DR,New,1,1,2,$0.00
+TY13,1/29/2014,Free,Non-Campaign,New,1,1,0,$0.00
+TY13,1/29/2014,Free,Non-Campaign,New,1,1,1,$0.00
+TY13,1/29/2014,Free,Affiliate,New,1,1,1,$0.00
+TY13,1/29/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,1/29/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,1/29/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,1/30/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/30/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/30/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/30/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,1/30/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,1/30/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,1/30/2014,Free,FI Channel,Veteran,1,1,0,$0.00
+TY13,1/30/2014,Free,FI Channel,Veteran,1,1,0,$0.00
+TY13,1/30/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,1/30/2014,Free,Organic Search,Veteran,1,1,10,$0.00
+TY13,1/30/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,1/30/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,1/30/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,1/30/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,1/31/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,1/31/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,1/31/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,1/31/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,1/31/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,1/31/2014,(null),Paid Search,(null),1,0,1,(null)
+TY13,1/31/2014,(null),DR,(null),1,0,3,(null)
+TY13,1/31/2014,Deluxe,DR,Veteran,1,1,2,$39.99
+TY13,1/31/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,1/31/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,1/31/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,1/31/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,1/31/2014,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY13,1/31/2014,H & B,Non-Campaign,Veteran,1,1,0,$99.99
+TY13,2/1/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/1/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/1/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/1/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/1/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,2/1/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/1/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,2/1/2014,Deluxe,Organic Search,Veteran,1,1,9,$39.99
+TY13,2/1/2014,Deluxe,Paid Search,Veteran,1,1,5,$39.99
+TY13,2/1/2014,Free,FI Channel,Veteran,1,1,2,$0.00
+TY13,2/1/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/1/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,2/1/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/1/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/2/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,2/2/2014,Deluxe,DR,Veteran,1,1,5,$39.99
+TY13,2/2/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/2/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/2/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,2/2/2014,Free,Organic Search,Veteran,1,1,4,$0.00
+TY13,2/2/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,2/2/2014,Free,FI Channel,Veteran,1,1,0,$0.00
+TY13,2/2/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/2/2014,Free,Display,Veteran,1,1,0,$0.00
+TY13,2/2/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/2/2014,Premier,FI Channel,Veteran,1,1,6,$59.99
+TY13,2/3/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/3/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/3/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/3/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/3/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/3/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/3/2014,Deluxe,Non-Campaign,Veteran,1,1,8,$39.99
+TY13,2/3/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,2/3/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/3/2014,Free,Organic Search,Veteran,1,1,4,$0.00
+TY13,2/3/2014,Free,FI Channel,Veteran,1,1,0,$0.00
+TY13,2/3/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,2/3/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/3/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/3/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/4/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/4/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/4/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/4/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/4/2014,(null),Display,(null),1,0,3,(null)
+TY13,2/4/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/4/2014,Deluxe,Non-Campaign,Veteran,1,1,6,$39.99
+TY13,2/4/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/4/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,2/4/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,2/4/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,2/4/2014,Deluxe,Paid Search,Veteran,1,1,5,$39.99
+TY13,2/4/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,2/4/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,2/4/2014,Free,FI Channel,Veteran,1,1,1,$0.00
+TY13,2/4/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,2/4/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,2/4/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/4/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/4/2014,H & B,Non-Campaign,Veteran,1,1,0,$99.99
+TY13,2/4/2014,Premier,Paid Search,Veteran,1,1,9,$59.99
+TY13,2/4/2014,Premier,Organic Search,Veteran,1,1,1,$59.99
+TY13,2/4/2014,Premier,Paid Search,Veteran,1,1,1,$59.99
+TY13,2/5/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/5/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/5/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/5/2014,Deluxe,DR,Veteran,1,1,0,$39.99
+TY13,2/5/2014,Deluxe,Affiliate,Veteran,1,1,(null),$39.99
+TY13,2/5/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,2/5/2014,Deluxe,Paid Search,Veteran,1,1,5,$39.99
+TY13,2/5/2014,Deluxe,Non-Campaign,Veteran,1,1,6,$39.99
+TY13,2/5/2014,Deluxe,Organic Search,New,1,1,5,$39.99
+TY13,2/5/2014,Free,Non-Campaign,New,1,1,4,$0.00
+TY13,2/5/2014,Free,Organic Search,New,1,1,0,$0.00
+TY13,2/5/2014,Free,Non-Campaign,New,1,1,2,$0.00
+TY13,2/5/2014,Free,Organic Search,New,1,1,6,$0.00
+TY13,2/5/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/5/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,2/5/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/5/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/5/2014,Free,Affiliate,Veteran,1,1,1,$0.00
+TY13,2/5/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,2/5/2014,Premier,Affiliate,Veteran,1,1,7,$59.99
+TY13,2/6/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/6/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/6/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,2/6/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/6/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/6/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/6/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,2/6/2014,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY13,2/6/2014,Deluxe,Paid Search,Veteran,1,1,6,$39.99
+TY13,2/6/2014,Deluxe,DR,Veteran,1,1,0,$39.99
+TY13,2/6/2014,Deluxe,DR,Veteran,1,1,0,$39.99
+TY13,2/6/2014,Deluxe,DR,New,1,1,1,$39.99
+TY13,2/6/2014,Deluxe,DR,New,1,1,1,$39.99
+TY13,2/6/2014,Deluxe,Non-Campaign,New,1,1,1,$39.99
+TY13,2/6/2014,Deluxe,Non-Campaign,New,1,1,1,$39.99
+TY13,2/6/2014,Free,Non-Campaign,New,1,1,3,$0.00
+TY13,2/6/2014,Free,FI Channel,New,1,1,1,$0.00
+TY13,2/6/2014,Free,Non-Campaign,New,1,1,3,$0.00
+TY13,2/6/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,2/6/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,2/6/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,2/6/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,2/6/2014,H & B,Organic Search,Veteran,1,1,8,$99.99
+TY13,2/6/2014,Premier,Non-Campaign,Veteran,1,1,4,$59.99
+TY13,2/7/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/7/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/7/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/7/2014,Deluxe,DR,Veteran,1,1,5,$39.99
+TY13,2/7/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/7/2014,Deluxe,DR,Veteran,1,1,4,$39.99
+TY13,2/7/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,2/7/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,2/7/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,2/7/2014,Free,Organic Search,New,1,1,1,$0.00
+TY13,2/7/2014,Free,Non-Campaign,New,1,1,1,$0.00
+TY13,2/7/2014,Free,DR,New,1,1,5,$0.00
+TY13,2/7/2014,Free,DR,New,1,1,0,$0.00
+TY13,2/7/2014,Free,Organic Search,New,1,1,2,$0.00
+TY13,2/7/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,2/7/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,2/7/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/7/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/7/2014,H & B,Non-Campaign,Veteran,1,1,0,$99.99
+TY13,2/8/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/8/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/8/2014,Deluxe,Paid Search,Veteran,1,1,3,$39.99
+TY13,2/8/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,2/8/2014,Deluxe,DR,New,1,1,1,$39.99
+TY13,2/8/2014,Deluxe,Paid Search,New,1,1,2,$39.99
+TY13,2/8/2014,Deluxe,Paid Search,New,1,1,0,$39.99
+TY13,2/8/2014,Deluxe,DR,New,1,1,4,$39.99
+TY13,2/8/2014,Free,Affiliate,New,1,1,3,$0.00
+TY13,2/8/2014,Free,Organic Search,New,1,1,3,$0.00
+TY13,2/8/2014,Free,FI Channel,Veteran,1,1,1,$0.00
+TY13,2/8/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,2/8/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/8/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,2/9/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,2/9/2014,(null),DR,(null),1,0,1,(null)
+TY13,2/9/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/9/2014,Deluxe,Display,Veteran,1,1,0,$39.99
+TY13,2/9/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,2/9/2014,Free,Paid Search,Veteran,1,1,5,$0.00
+TY13,2/9/2014,Free,FI Channel,Veteran,1,1,1,$0.00
+TY13,2/9/2014,Free,Non-Campaign,Veteran,1,1,6,$0.00
+TY13,2/9/2014,Free,Affiliate,Veteran,1,1,5,$0.00
+TY13,2/9/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/9/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/9/2014,Free,Organic Search,Veteran,1,1,6,$0.00
+TY13,2/9/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,2/9/2014,H & B,DR,Veteran,1,1,4,$99.99
+TY13,2/10/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,2/10/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/10/2014,(null),DR,(null),1,0,1,(null)
+TY13,2/10/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/10/2014,(null),DR,(null),1,0,1,(null)
+TY13,2/10/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/10/2014,Deluxe,Display,Veteran,1,1,0,$39.99
+TY13,2/10/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,2/10/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/10/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,2/10/2014,Free,DR,Veteran,1,1,6,$0.00
+TY13,2/10/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/10/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/10/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/10/2014,H & B,Paid Search,Veteran,1,1,8,$99.99
+TY13,2/11/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,2/11/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,2/11/2014,(null),Non-Campaign,(null),1,0,2,(null)
+TY13,2/11/2014,(null),Paid Search,(null),1,0,3,(null)
+TY13,2/11/2014,(null),Organic Search,(null),1,0,4,(null)
+TY13,2/11/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,2/11/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,2/11/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,2/11/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/11/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,2/11/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/11/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/11/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,2/11/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/11/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,2/11/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,2/11/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/11/2014,H & B,Non-Campaign,Veteran,1,1,1,$99.99
+TY13,2/11/2014,Premier,Paid Search,Veteran,1,1,17,$59.99
+TY13,2/12/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/12/2014,(null),FI Channel,(null),1,0,2,(null)
+TY13,2/12/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,2/12/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,2/12/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,2/12/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/12/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,2/12/2014,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY13,2/12/2014,Free,Organic Search,Veteran,1,1,0,$0.00
+TY13,2/12/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/12/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/12/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,2/12/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,2/12/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/12/2014,Free,Affiliate,Veteran,1,1,(null),$0.00
+TY13,2/12/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/12/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/12/2014,Free,Non-Campaign,Veteran,1,1,10,$0.00
+TY13,2/12/2014,H & B,Non-Campaign,Veteran,1,1,0,$99.99
+TY13,2/12/2014,H & B,Organic Search,Veteran,1,1,0,$99.99
+TY13,2/12/2014,H & B,Organic Search,Veteran,1,1,1,$99.99
+TY13,2/12/2014,Premier,DR,Veteran,1,1,4,$59.99
+TY13,2/13/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,2/13/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/13/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/13/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,2/13/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,2/13/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,2/13/2014,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY13,2/13/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,2/13/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/14/2014,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY13,2/14/2014,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY13,2/14/2014,Free,Organic Search,Veteran,1,1,15,$0.00
+TY13,2/14/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,2/14/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,2/14/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,2/14/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/14/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/14/2014,Premier,Non-Campaign,Veteran,1,1,0,$59.99
+TY13,2/15/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/15/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/15/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,2/15/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/15/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,2/15/2014,Deluxe,Non-Campaign,Veteran,1,1,6,$39.99
+TY13,2/15/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,2/15/2014,Deluxe,DR,Veteran,1,1,0,$39.99
+TY13,2/15/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,2/15/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/15/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,2/15/2014,Free,FI Channel,Veteran,1,1,0,$0.00
+TY13,2/15/2014,Free,Organic Search,Veteran,1,1,4,$0.00
+TY13,2/15/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,2/15/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/15/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/15/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/15/2014,Free,Affiliate,Veteran,1,1,(null),$0.00
+TY13,2/16/2014,(null),Non-Campaign,(null),1,0,2,(null)
+TY13,2/16/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/16/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,2/16/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,2/16/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/16/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/16/2014,Deluxe,FI Channel,Veteran,1,1,3,$39.99
+TY13,2/16/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/16/2014,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY13,2/16/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,2/16/2014,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY13,2/16/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,2/16/2014,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY13,2/16/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/16/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/16/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,2/16/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,2/16/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,2/16/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/16/2014,Free,Display,Veteran,1,1,0,$0.00
+TY13,2/16/2014,H & B,Paid Search,Veteran,1,1,4,$99.99
+TY13,2/17/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/17/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/17/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,2/17/2014,Deluxe,DR,Veteran,1,1,2,$39.99
+TY13,2/17/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/17/2014,Deluxe,DR,Veteran,1,1,4,$39.99
+TY13,2/17/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,2/17/2014,Deluxe,DR,Veteran,1,1,4,$39.99
+TY13,2/17/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/17/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/17/2014,H & B,FI Channel,Veteran,1,1,0,$99.99
+TY13,2/17/2014,Premier,Non-Campaign,Veteran,1,1,0,$59.99
+TY13,2/18/2014,(null),DR,(null),1,0,1,(null)
+TY13,2/18/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,2/18/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/18/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,2/18/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/18/2014,Free,Internal,Veteran,1,1,1,$0.00
+TY13,2/18/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/18/2014,Free,Display,Veteran,1,1,4,$0.00
+TY13,2/18/2014,Free,FI Channel,Veteran,1,1,4,$0.00
+TY13,2/18/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,2/18/2014,Free,DR,Veteran,1,1,9,$0.00
+TY13,2/18/2014,H & B,Non-Campaign,Veteran,1,1,0,$99.99
+TY13,2/19/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/19/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,2/19/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/19/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/19/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/19/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/19/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,2/19/2014,Free,Non-Campaign,Veteran,1,1,6,$0.00
+TY13,2/19/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,2/19/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/19/2014,Premier,Organic Search,Veteran,1,1,5,$59.99
+TY13,2/20/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/20/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/20/2014,(null),Paid Search,(null),1,0,1,(null)
+TY13,2/20/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/20/2014,Deluxe,DR,Veteran,1,1,2,$39.99
+TY13,2/20/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,2/20/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/20/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/20/2014,Free,FI Channel,Veteran,1,1,1,$0.00
+TY13,2/20/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/20/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/20/2014,H & B,Non-Campaign,Veteran,1,1,5,$99.99
+TY13,2/21/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/21/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,2/21/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,2/21/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,2/21/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,2/21/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,2/21/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,2/21/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/21/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,2/21/2014,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY13,2/21/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/21/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/21/2014,H & B,Non-Campaign,Veteran,1,1,5,$99.99
+TY13,2/21/2014,Premier,FI Channel,Veteran,1,1,2,$59.99
+TY13,2/22/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/22/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/22/2014,(null),Non-Campaign,(null),1,0,2,(null)
+TY13,2/22/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/22/2014,(null),Organic Search,(null),1,0,3,(null)
+TY13,2/22/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,2/22/2014,Deluxe,Paid Search,Veteran,1,1,7,$39.99
+TY13,2/22/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/22/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,2/22/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,2/22/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,2/22/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/22/2014,H & B,Non-Campaign,Veteran,1,1,13,$99.99
+TY13,2/22/2014,Premier,DR,Veteran,1,1,3,$59.99
+TY13,2/22/2014,Premier,Paid Search,Veteran,1,1,12,$59.99
+TY13,2/23/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/23/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/23/2014,Deluxe,FI Channel,Veteran,1,1,7,$39.99
+TY13,2/23/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,2/23/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/23/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,2/23/2014,H & B,Non-Campaign,Veteran,1,1,0,$99.99
+TY13,2/23/2014,H & B,Organic Search,Veteran,1,1,0,$99.99
+TY13,2/23/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,2/24/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,2/24/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/24/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/24/2014,Deluxe,DR,Veteran,1,1,8,$39.99
+TY13,2/24/2014,Deluxe,Paid Search,Veteran,1,1,5,$39.99
+TY13,2/24/2014,Free,Organic Search,Veteran,1,1,4,$0.00
+TY13,2/24/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/24/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,2/24/2014,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY13,2/24/2014,H & B,Non-Campaign,Veteran,1,1,4,$99.99
+TY13,2/24/2014,Premier,DR,Veteran,1,1,8,$59.99
+TY13,2/25/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/25/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,2/25/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/25/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,2/25/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,2/25/2014,(null),Paid Search,(null),1,0,4,(null)
+TY13,2/25/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/25/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,2/25/2014,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY13,2/25/2014,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY13,2/25/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,2/26/2014,Deluxe,Non-Campaign,Veteran,1,1,6,$39.99
+TY13,2/26/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,2/26/2014,Deluxe,Display,Veteran,1,1,8,$39.99
+TY13,2/26/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,2/26/2014,Free,DR,Veteran,1,1,11,$0.00
+TY13,2/26/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,2/26/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/26/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,2/27/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,2/27/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,2/27/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,2/27/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,2/27/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,2/27/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,2/27/2014,Deluxe,Organic Search,Veteran,1,1,9,$39.99
+TY13,2/27/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,2/27/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,2/27/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,2/27/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,2/27/2014,Free,Paid Search,Veteran,1,1,6,$0.00
+TY13,2/27/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,2/27/2014,Premier,Paid Search,Veteran,1,1,6,$59.99
+TY13,2/28/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,2/28/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,2/28/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,2/28/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,2/28/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,2/28/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,2/28/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,2/28/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/1/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/1/2014,Premier,Non-Campaign,Veteran,1,1,5,$59.99
+TY13,3/2/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,3/2/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,3/2/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,3/2/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,3/2/2014,Deluxe,DR,Veteran,1,1,2,$39.99
+TY13,3/2/2014,Deluxe,Affiliate,Veteran,1,1,0,$39.99
+TY13,3/2/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,3/2/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,3/2/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,3/3/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/3/2014,(null),Internal,(null),1,0,0,(null)
+TY13,3/3/2014,Deluxe,Display,Veteran,1,1,0,$39.99
+TY13,3/3/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,3/3/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,3/3/2014,Free,Affiliate,Veteran,1,1,2,$0.00
+TY13,3/3/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,3/3/2014,Premier,Paid Search,Veteran,1,1,1,$59.99
+TY13,3/3/2014,Premier,DR,Veteran,1,1,11,$59.99
+TY13,3/4/2014,(null),Paid Search,(null),1,0,1,(null)
+TY13,3/4/2014,Premier,Paid Search,Veteran,1,1,12,$59.99
+TY13,3/5/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/5/2014,Deluxe,Paid Search,Veteran,1,1,3,$39.99
+TY13,3/5/2014,Premier,Organic Search,Veteran,1,1,0,$59.99
+TY13,3/6/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,3/6/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,3/7/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,3/7/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,3/7/2014,Deluxe,Organic Search,Veteran,1,1,3,$39.99
+TY13,3/7/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,3/7/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,3/7/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,3/7/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,3/7/2014,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY13,3/7/2014,Free,Organic Search,Veteran,1,1,4,$0.00
+TY13,3/7/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,3/7/2014,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY13,3/7/2014,H & B,DR,Veteran,1,1,3,$99.99
+TY13,3/8/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,3/8/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,3/8/2014,Deluxe,DR,Veteran,1,1,5,$39.99
+TY13,3/8/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,3/8/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,3/8/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/8/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,3/8/2014,Premier,FI Channel,Veteran,1,1,4,$59.99
+TY13,3/8/2014,Premier,Paid Search,Veteran,1,1,5,$59.99
+TY13,3/9/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,3/9/2014,(null),Organic Search,(null),1,0,2,(null)
+TY13,3/9/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,3/9/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,3/9/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,3/9/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,3/9/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,3/9/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,3/9/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,3/9/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/9/2014,Premier,Non-Campaign,Veteran,1,1,0,$59.99
+TY13,3/10/2014,Deluxe,Paid Search,Veteran,1,1,4,$39.99
+TY13,3/10/2014,Free,FI Channel,Veteran,1,1,1,$0.00
+TY13,3/10/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,3/11/2014,(null),Non-Campaign,(null),1,0,6,(null)
+TY13,3/11/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/11/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,3/11/2014,Deluxe,DR,Veteran,1,1,8,$39.99
+TY13,3/11/2014,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY13,3/11/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,3/11/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/11/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,3/12/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,3/12/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,3/12/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,3/12/2014,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY13,3/12/2014,Free,DR,Veteran,1,1,6,$0.00
+TY13,3/12/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,3/12/2014,Free,Affiliate,Veteran,1,1,1,$0.00
+TY13,3/12/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/13/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/13/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,3/13/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,3/13/2014,Deluxe,Affiliate,Veteran,1,1,5,$39.99
+TY13,3/13/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,3/13/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,3/13/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,3/13/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,3/14/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/14/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,3/14/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,3/14/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,3/14/2014,Deluxe,Paid Search,Veteran,1,1,6,$39.99
+TY13,3/14/2014,Deluxe,Non-Campaign,New,1,1,0,$39.99
+TY13,3/14/2014,Deluxe,Organic Search,New,1,1,0,$39.99
+TY13,3/14/2014,Free,Paid Search,New,1,1,4,$0.00
+TY13,3/14/2014,Free,Organic Search,New,1,1,3,$0.00
+TY13,3/14/2014,Free,Affiliate,New,1,1,0,$0.00
+TY13,3/14/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,3/14/2014,H & B,Paid Search,Veteran,1,1,2,$99.99
+TY13,3/14/2014,Premier,DR,Veteran,1,1,4,$59.99
+TY13,3/15/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,3/15/2014,(null),Non-Campaign,(null),1,0,6,(null)
+TY13,3/15/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,3/15/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,3/15/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,3/15/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,3/15/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,3/15/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,3/15/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,3/15/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,3/15/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,3/15/2014,Premier,Non-Campaign,Veteran,1,1,0,$59.99
+TY13,3/16/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,3/16/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,3/16/2014,Deluxe,Non-Campaign,Veteran,1,1,10,$39.99
+TY13,3/16/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,3/16/2014,Deluxe,Non-Campaign,Veteran,1,1,6,$39.99
+TY13,3/16/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,3/16/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,3/16/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,3/16/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,3/16/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/16/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,3/17/2014,(null),DR,(null),1,0,4,(null)
+TY13,3/17/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,3/17/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,3/17/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/17/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/17/2014,Free,Paid Search,Veteran,1,1,6,$0.00
+TY13,3/18/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,3/18/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/18/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,3/18/2014,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY13,3/18/2014,Free,FI Channel,Veteran,1,1,5,$0.00
+TY13,3/18/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,3/18/2014,Free,FI Channel,Veteran,1,1,7,$0.00
+TY13,3/18/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,3/18/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,3/18/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,3/18/2014,Premier,Organic Search,Veteran,1,1,0,$59.99
+TY13,3/19/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,3/19/2014,Deluxe,Paid Search,Veteran,1,1,18,$39.99
+TY13,3/19/2014,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY13,3/19/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,3/19/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,3/19/2014,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY13,3/19/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,3/19/2014,Free,Paid Search,Veteran,1,1,5,$0.00
+TY13,3/19/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,3/20/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/20/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,3/20/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,3/21/2014,Free,Paid Search,Veteran,1,1,4,$0.00
+TY13,3/22/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/22/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,3/22/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,3/22/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,3/22/2014,Deluxe,Organic Search,Veteran,1,1,3,$39.99
+TY13,3/22/2014,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY13,3/22/2014,H & B,Non-Campaign,Veteran,1,1,1,$99.99
+TY13,3/23/2014,(null),Non-Campaign,(null),1,0,2,(null)
+TY13,3/23/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,3/23/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,3/23/2014,Free,Organic Search,Veteran,1,1,55,$0.00
+TY13,3/23/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,3/23/2014,H & B,Paid Search,Veteran,1,1,4,$99.99
+TY13,3/23/2014,Premier,Organic Search,Veteran,1,1,1,$59.99
+TY13,3/23/2014,Premier,Affiliate,Veteran,1,1,7,$59.99
+TY13,3/24/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,3/24/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,3/24/2014,(null),DR,(null),1,0,3,(null)
+TY13,3/24/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,3/24/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,3/24/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,3/24/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,3/24/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,3/24/2014,H & B,Non-Campaign,Veteran,1,1,1,$99.99
+TY13,3/24/2014,H & B,Paid Search,Veteran,1,1,1,$99.99
+TY13,3/24/2014,Premier,Non-Campaign,Veteran,1,1,0,$59.99
+TY13,3/25/2014,(null),Paid Search,(null),1,0,1,(null)
+TY13,3/25/2014,Deluxe,Organic Search,Veteran,1,1,6,$39.99
+TY13,3/25/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,3/25/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,3/25/2014,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY13,3/26/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,3/26/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,3/26/2014,Deluxe,Paid Search,Veteran,1,1,6,$39.99
+TY13,3/26/2014,Deluxe,Display,Veteran,1,1,3,$39.99
+TY13,3/26/2014,Deluxe,Organic Search,Veteran,1,1,5,$39.99
+TY13,3/26/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,3/26/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,3/26/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,3/26/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,3/26/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,3/26/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,3/26/2014,Premier,Non-Campaign,Veteran,1,1,1,$59.99
+TY13,3/27/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/27/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,3/27/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,3/27/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,3/27/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,3/27/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,3/27/2014,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY13,3/27/2014,Premier,Non-Campaign,Veteran,1,1,3,$59.99
+TY13,3/28/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/28/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,3/28/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,3/28/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,3/28/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/28/2014,Premier,Non-Campaign,Veteran,1,1,5,$59.99
+TY13,3/29/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,3/29/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,3/29/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,3/29/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/29/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,3/29/2014,Deluxe,Paid Search,Veteran,1,1,6,$39.99
+TY13,3/29/2014,Deluxe,Paid Search,Veteran,1,1,5,$39.99
+TY13,3/29/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,3/29/2014,Free,Affiliate,Veteran,1,1,2,$0.00
+TY13,3/29/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,3/29/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,3/29/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,3/29/2014,H & B,Organic Search,Veteran,1,1,5,$99.99
+TY13,3/29/2014,H & B,Organic Search,Veteran,1,1,0,$99.99
+TY13,3/30/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,3/30/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,3/30/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,3/30/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,3/30/2014,Deluxe,Non-Campaign,Veteran,1,1,9,$39.99
+TY13,3/30/2014,Free,Affiliate,Veteran,1,1,2,$0.00
+TY13,3/30/2014,Free,Organic Search,Veteran,1,1,8,$0.00
+TY13,3/30/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,3/30/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,3/30/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,3/30/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,3/30/2014,H & B,Non-Campaign,Veteran,1,1,1,$99.99
+TY13,3/30/2014,Premier,Organic Search,Veteran,1,1,12,$59.99
+TY13,3/31/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,3/31/2014,Deluxe,FI Channel,Veteran,1,1,4,$39.99
+TY13,3/31/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,3/31/2014,Deluxe,Paid Search,Veteran,1,1,9,$39.99
+TY13,3/31/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,3/31/2014,Free,Organic Search,Veteran,1,1,7,$0.00
+TY13,3/31/2014,Free,Non-Campaign,Veteran,1,1,(null),$0.00
+TY13,3/31/2014,Free,Affiliate,Veteran,1,1,1,$0.00
+TY13,3/31/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,3/31/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,4/1/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/1/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,4/1/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,4/1/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,4/1/2014,Premier,FI Channel,Veteran,1,1,6,$59.99
+TY13,4/2/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,4/2/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,4/2/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/2/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,4/2/2014,Deluxe,DR,Veteran,1,1,4,$39.99
+TY13,4/2/2014,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY13,4/2/2014,Free,Organic Search,Veteran,1,1,0,$0.00
+TY13,4/2/2014,Free,FI Channel,Veteran,1,1,1,$0.00
+TY13,4/3/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,4/3/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,4/3/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,4/3/2014,Free,Paid Search,Veteran,1,1,7,$0.00
+TY13,4/3/2014,Premier,DR,Veteran,1,1,7,$59.99
+TY13,4/4/2014,(null),Paid Search,(null),1,0,(null),(null)
+TY13,4/4/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,4/4/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,4/4/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,4/4/2014,H & B,Non-Campaign,Veteran,1,1,8,$99.99
+TY13,4/4/2014,Premier,FI Channel,Veteran,1,1,3,$59.99
+TY13,4/5/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,4/5/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/5/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,4/5/2014,Deluxe,Paid Search,Veteran,1,1,5,$39.99
+TY13,4/5/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,4/5/2014,Premier,Paid Search,Veteran,1,1,0,$59.99
+TY13,4/6/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/6/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,4/6/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,4/6/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,4/6/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,4/6/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,4/6/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,4/6/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,4/6/2014,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY13,4/6/2014,Free,FI Channel,Veteran,1,1,16,$0.00
+TY13,4/6/2014,H & B,Organic Search,Veteran,1,1,5,$99.99
+TY13,4/6/2014,Premier,Paid Search,Veteran,1,1,9,$59.99
+TY13,4/7/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/7/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/7/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,4/7/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,4/7/2014,(null),Paid Search,(null),1,0,1,(null)
+TY13,4/7/2014,Deluxe,FI Channel,Veteran,1,1,2,$39.99
+TY13,4/7/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,4/7/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,4/7/2014,Free,FI Channel,Veteran,1,1,1,$0.00
+TY13,4/7/2014,Free,Organic Search,Veteran,1,1,10,$0.00
+TY13,4/7/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,4/7/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,4/8/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/8/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,4/8/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,4/8/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,4/8/2014,Deluxe,Display,Veteran,1,1,0,$39.99
+TY13,4/8/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,4/8/2014,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY13,4/8/2014,Free,DR,Veteran,1,1,3,$0.00
+TY13,4/8/2014,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY13,4/8/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,4/8/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,4/8/2014,H & B,Paid Search,Veteran,1,1,13,$99.99
+TY13,4/8/2014,Premier,Non-Campaign,Veteran,1,1,0,$59.99
+TY13,4/8/2014,Premier,Paid Search,Veteran,1,1,0,$59.99
+TY13,4/8/2014,Premier,Non-Campaign,Veteran,1,1,9,$59.99
+TY13,4/8/2014,Premier,Non-Campaign,Veteran,1,1,6,$59.99
+TY13,4/9/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,4/9/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,4/9/2014,Free,Organic Search,Veteran,1,1,4,$0.00
+TY13,4/9/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,4/9/2014,Free,Organic Search,Veteran,1,1,6,$0.00
+TY13,4/9/2014,H & B,Display,Veteran,1,1,4,$99.99
+TY13,4/9/2014,Premier,Organic Search,Veteran,1,1,0,$59.99
+TY13,4/9/2014,Premier,DR,Veteran,1,1,8,$59.99
+TY13,4/9/2014,Premier,Non-Campaign,Veteran,1,1,1,$59.99
+TY13,4/10/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/10/2014,(null),Non-Campaign,(null),1,0,5,(null)
+TY13,4/10/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/10/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,4/10/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,4/10/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,4/10/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,4/10/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,4/10/2014,Premier,Paid Search,Veteran,1,1,0,$59.99
+TY13,4/10/2014,Premier,Organic Search,Veteran,1,1,8,$59.99
+TY13,4/11/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,4/11/2014,(null),DR,(null),1,0,4,(null)
+TY13,4/11/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/11/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,4/11/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/11/2014,Deluxe,DR,Veteran,1,1,5,$39.99
+TY13,4/11/2014,Deluxe,Affiliate,Veteran,1,1,5,$39.99
+TY13,4/11/2014,Deluxe,Organic Search,Veteran,1,1,5,$39.99
+TY13,4/11/2014,Deluxe,Organic Search,Veteran,1,1,5,$39.99
+TY13,4/11/2014,Free,Affiliate,Veteran,1,1,2,$0.00
+TY13,4/11/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,4/11/2014,Free,FI Channel,Veteran,1,1,0,$0.00
+TY13,4/11/2014,Free,Organic Search,Veteran,1,1,0,$0.00
+TY13,4/11/2014,Free,Affiliate,Veteran,1,1,1,$0.00
+TY13,4/11/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,4/11/2014,H & B,Organic Search,Veteran,1,1,0,$99.99
+TY13,4/12/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/12/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/12/2014,Deluxe,Affiliate,Veteran,1,1,13,$39.99
+TY13,4/12/2014,Deluxe,DR,Veteran,1,1,0,$39.99
+TY13,4/12/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,4/12/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,4/12/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,4/12/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,4/12/2014,Free,Paid Search,Veteran,1,1,7,$0.00
+TY13,4/12/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,4/12/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,4/12/2014,Free,Organic Search,Veteran,1,1,6,$0.00
+TY13,4/12/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,4/12/2014,Premier,Paid Search,Veteran,1,1,1,$59.99
+TY13,4/12/2014,Premier,Non-Campaign,Veteran,1,1,8,$59.99
+TY13,4/13/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,4/13/2014,(null),Non-Campaign,(null),1,0,5,(null)
+TY13,4/13/2014,(null),Non-Campaign,(null),1,0,1,(null)
+TY13,4/13/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/13/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,4/13/2014,Free,Paid Search,Veteran,1,1,7,$0.00
+TY13,4/13/2014,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY13,4/13/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,4/13/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,4/13/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,4/13/2014,H & B,Non-Campaign,Veteran,1,1,9,$99.99
+TY13,4/13/2014,Premier,Paid Search,Veteran,1,1,4,$59.99
+TY13,4/13/2014,Premier,Non-Campaign,Veteran,1,1,4,$59.99
+TY13,4/14/2014,(null),Non-Campaign,(null),1,0,21,(null)
+TY13,4/14/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/14/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/14/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/14/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/14/2014,(null),Non-Campaign,(null),1,0,(null),(null)
+TY13,4/14/2014,(null),Organic Search,(null),1,0,(null),(null)
+TY13,4/14/2014,(null),Paid Search,(null),1,0,9,(null)
+TY13,4/14/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/14/2014,(null),Organic Search,(null),1,0,1,(null)
+TY13,4/14/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,4/14/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,4/14/2014,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY13,4/14/2014,Deluxe,DR,Veteran,1,1,5,$39.99
+TY13,4/14/2014,Deluxe,DR,Veteran,1,1,0,$39.99
+TY13,4/14/2014,Deluxe,Non-Campaign,Veteran,1,1,4,$39.99
+TY13,4/14/2014,Deluxe,Organic Search,Veteran,1,1,4,$39.99
+TY13,4/14/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,4/14/2014,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY13,4/14/2014,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY13,4/14/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,4/14/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,4/14/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,4/14/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,4/14/2014,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY13,4/14/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,4/14/2014,Free,Paid Search,Veteran,1,1,1,$0.00
+TY13,4/14/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,4/14/2014,Free,Organic Search,Veteran,1,1,2,$0.00
+TY13,4/14/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,4/14/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,4/14/2014,Free,DR,Veteran,1,1,0,$0.00
+TY13,4/14/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,4/14/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,4/14/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,4/14/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,4/14/2014,H & B,Affiliate,Veteran,1,1,1,$99.99
+TY13,4/14/2014,H & B,Organic Search,Veteran,1,1,0,$99.99
+TY13,4/14/2014,H & B,Paid Search,Veteran,1,1,2,$99.99
+TY13,4/14/2014,Premier,DR,Veteran,1,1,1,$59.99
+TY13,4/14/2014,Premier,Non-Campaign,Veteran,1,1,5,$59.99
+TY13,4/14/2014,Premier,Paid Search,Veteran,1,1,5,$59.99
+TY13,4/14/2014,Premier,DR,Veteran,1,1,7,$59.99
+TY13,4/15/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/15/2014,(null),Non-Campaign,(null),1,0,0,(null)
+TY13,4/15/2014,(null),Organic Search,(null),1,0,0,(null)
+TY13,4/15/2014,(null),Non-Campaign,(null),1,0,4,(null)
+TY13,4/15/2014,Deluxe,Affiliate,Veteran,1,1,0,$39.99
+TY13,4/15/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,4/15/2014,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY13,4/15/2014,Deluxe,Affiliate,Veteran,1,1,0,$39.99
+TY13,4/15/2014,Deluxe,DR,Veteran,1,1,3,$39.99
+TY13,4/15/2014,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY13,4/15/2014,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY13,4/15/2014,Deluxe,DR,Veteran,1,1,16,$39.99
+TY13,4/15/2014,Deluxe,DR,Veteran,1,1,1,$39.99
+TY13,4/15/2014,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY13,4/15/2014,Free,Paid Search,Veteran,1,1,7,$0.00
+TY13,4/15/2014,Free,Paid Search,Veteran,1,1,4,$0.00
+TY13,4/15/2014,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY13,4/15/2014,Free,DR,Veteran,1,1,3,$0.00
+TY13,4/15/2014,Free,FI Channel,Veteran,1,1,1,$0.00
+TY13,4/15/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,4/15/2014,Free,FI Channel,Veteran,1,1,5,$0.00
+TY13,4/15/2014,Free,Paid Search,Veteran,1,1,0,$0.00
+TY13,4/15/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,4/15/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,4/15/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,4/15/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,4/15/2014,Free,Other,Veteran,1,1,0,$0.00
+TY13,4/15/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,4/15/2014,Free,Affiliate,Veteran,1,1,0,$0.00
+TY13,4/15/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,4/15/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,4/15/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,4/15/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,4/15/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,4/15/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,4/15/2014,Free,DR,Veteran,1,1,2,$0.00
+TY13,4/15/2014,H & B,Paid Search,Veteran,1,1,5,$99.99
+TY13,4/15/2014,H & B,Non-Campaign,Veteran,1,1,0,$99.99
+TY13,4/15/2014,H & B,Non-Campaign,Veteran,1,1,0,$99.99
+TY13,4/15/2014,H & B,Paid Search,Veteran,1,1,0,$99.99
+TY13,4/15/2014,H & B,DR,Veteran,1,1,1,$99.99
+TY13,4/15/2014,Premier,Organic Search,Veteran,1,1,5,$59.99
+TY13,4/15/2014,Premier,Organic Search,Veteran,1,1,2,$59.99
+TY13,4/16/2014,(null),FI Channel,(null),1,0,3,(null)
+TY13,4/16/2014,(null),Paid Search,(null),1,0,0,(null)
+TY13,4/16/2014,Deluxe,Non-Campaign,Veteran,1,1,6,$39.99
+TY13,4/16/2014,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY13,4/16/2014,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY13,4/16/2014,Deluxe,FI Channel,Veteran,1,1,7,$39.99
+TY13,4/16/2014,Free,Organic Search,Veteran,1,1,3,$0.00
+TY13,4/16/2014,Free,Paid Search,Veteran,1,1,3,$0.00
+TY13,4/16/2014,H & B,DR,Veteran,1,1,8,$99.99
+TY13,4/17/2014,Deluxe,DR,Veteran,1,1,5,$39.99
+TY13,4/17/2014,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY13,4/17/2014,Free,DR,Veteran,1,1,1,$0.00
+TY13,4/17/2014,Free,Paid Search,Veteran,1,1,2,$0.00
+TY13,4/17/2014,H & B,Non-Campaign,Veteran,1,1,1,$99.99
+TY13,4/17/2014,H & B,DR,Veteran,1,1,3,$99.99
+TY14,1/1/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,1/2/2015,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY14,1/4/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,1/7/2015,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY14,1/9/2015,(null),DR,(null),1,0,(null),(null)
+TY14,1/9/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,1/9/2015,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY14,1/11/2015,(null),DR,(null),1,0,(null),(null)
+TY14,1/12/2015,(null),Affiliate,(null),1,0,0,(null)
+TY14,1/12/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,1/14/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,1/16/2015,(null),Affiliate,(null),1,0,0,(null)
+TY14,1/16/2015,(null),DR,(null),1,0,(null),(null)
+TY14,1/18/2015,(null),DR,(null),1,0,(null),(null)
+TY14,1/19/2015,Deluxe,Organic Search,Veteran,1,1,(null),$39.99
+TY14,1/19/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,1/19/2015,Free,Affiliate,Veteran,1,1,0,$0.00
+TY14,1/20/2015,Deluxe,Paid Search,Veteran,1,1,25,$39.99
+TY14,1/20/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,1/20/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,1/20/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,1/20/2015,Free,Non-Campaign,Veteran,1,1,13,$0.00
+TY14,1/20/2015,Free,Affiliate,Veteran,1,1,0,$0.00
+TY14,1/21/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/21/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,1/22/2015,Deluxe,DR,Veteran,1,1,6,$39.99
+TY14,1/22/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,1/22/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,1/22/2015,Deluxe,DR,Veteran,1,1,1,$39.99
+TY14,1/22/2015,Free,Paid Search,Veteran,1,1,0,$0.00
+TY14,1/23/2015,(null),DR,(null),1,0,0,(null)
+TY14,1/23/2015,Deluxe,Non-Campaign,Veteran,1,1,4,$39.99
+TY14,1/23/2015,Deluxe,Paid Search,Veteran,1,1,3,$39.99
+TY14,1/23/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,1/23/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,1/23/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,1/24/2015,(null),Other,(null),1,0,0,(null)
+TY14,1/24/2015,Deluxe,Display,Veteran,1,1,2,$39.99
+TY14,1/24/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,1/24/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,1/24/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,1/24/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,1/24/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,1/24/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,1/24/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,1/24/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,1/24/2015,Premier,Non-Campaign,Veteran,1,1,2,$59.99
+TY14,1/25/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,1/25/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,1/25/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,1/25/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/25/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,1/25/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,1/26/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,1/26/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/26/2015,Free,DR,Veteran,1,1,3,$0.00
+TY14,1/26/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,1/26/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,1/27/2015,Deluxe,Non-Campaign,Veteran,1,1,8,$39.99
+TY14,1/27/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,1/27/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,1/27/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,1/27/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,1/27/2015,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY14,1/27/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,1/27/2015,Free,FI Channel,Veteran,1,1,2,$0.00
+TY14,1/27/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/27/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/27/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,1/27/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,1/28/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,1/28/2015,Deluxe,FI Channel,Veteran,1,1,1,$39.99
+TY14,1/28/2015,Deluxe,Organic Search,Veteran,1,1,5,$39.99
+TY14,1/28/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,1/28/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,1/28/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,1/28/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,1/28/2015,Free,Organic Search,Veteran,1,1,(null),$0.00
+TY14,1/28/2015,Free,Affiliate,Veteran,1,1,1,$0.00
+TY14,1/28/2015,Free,Display,Veteran,1,1,1,$0.00
+TY14,1/28/2015,Free,Display,Veteran,1,1,(null),$0.00
+TY14,1/28/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,1/28/2015,Premier,DR,Veteran,1,1,1,$59.99
+TY14,1/29/2015,Deluxe,Paid Search,Veteran,1,1,11,$39.99
+TY14,1/29/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,1/29/2015,Deluxe,DR,Veteran,1,1,1,$39.99
+TY14,1/29/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,1/29/2015,Free,FI Channel,Veteran,1,1,10,$0.00
+TY14,1/29/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/29/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/29/2015,Free,Organic Search,Veteran,1,1,4,$0.00
+TY14,1/29/2015,Free,Organic Search,Veteran,1,1,0,$0.00
+TY14,1/29/2015,Free,Paid Search,Veteran,1,1,0,$0.00
+TY14,1/29/2015,Free,DR,Veteran,1,1,0,$0.00
+TY14,1/29/2015,Free,DR,Veteran,1,1,0,$0.00
+TY14,1/29/2015,Premier,Non-Campaign,Veteran,1,1,14,$59.99
+TY14,1/30/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,1/30/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,1/30/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,1/30/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,1/30/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,1/30/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,1/30/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,1/30/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/30/2015,Free,Paid Search,Veteran,1,1,4,$0.00
+TY14,1/30/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,1/30/2015,Free,Display,Veteran,1,1,2,$0.00
+TY14,1/30/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,1/31/2015,(null),DR,(null),1,0,0,(null)
+TY14,1/31/2015,Deluxe,Non-Campaign,Veteran,1,1,7,$39.99
+TY14,1/31/2015,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY14,1/31/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,1/31/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/31/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/31/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,1/31/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,1/31/2015,Free,Affiliate,Veteran,1,1,2,$0.00
+TY14,1/31/2015,Free,Paid Search,Veteran,1,1,6,$0.00
+TY14,1/31/2015,Free,Display,Veteran,1,1,(null),$0.00
+TY14,1/31/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,1/31/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,1/31/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,1/31/2015,Free,Display,Veteran,1,1,1,$0.00
+TY14,1/31/2015,Premier,Paid Search,Veteran,1,1,2,$59.99
+TY14,2/1/2015,(null),DR,(null),1,0,0,(null)
+TY14,2/1/2015,Deluxe,DR,Veteran,1,1,10,$19.99
+TY14,2/1/2015,Deluxe,Paid Search,Veteran,1,1,7,$19.99
+TY14,2/1/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$19.99
+TY14,2/1/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/1/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/1/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/1/2015,Deluxe,DR,Veteran,1,1,4,$19.99
+TY14,2/1/2015,Deluxe,Paid Search,Veteran,1,1,0,$19.99
+TY14,2/1/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/1/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/1/2015,Free,Organic Search,Veteran,1,1,3,$0.00
+TY14,2/1/2015,Free,FI Channel,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Deluxe,Non-Campaign,Veteran,1,1,7,$19.99
+TY14,2/2/2015,Deluxe,FI Channel,Veteran,1,1,1,$19.99
+TY14,2/2/2015,Deluxe,Paid Search,Veteran,1,1,1,$19.99
+TY14,2/2/2015,Deluxe,Paid Search,Veteran,1,1,0,$19.99
+TY14,2/2/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/2/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/2/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Free,Non-Campaign,Veteran,1,1,(null),$0.00
+TY14,2/2/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Free,Paid Search,Veteran,1,1,4,$0.00
+TY14,2/2/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Free,Paid Search,Veteran,1,1,6,$0.00
+TY14,2/2/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,2/2/2015,Free,Affiliate,Veteran,1,1,0,$0.00
+TY14,2/2/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,2/2/2015,Premier,Paid Search,Veteran,1,1,1,$59.99
+TY14,2/3/2015,Deluxe,DR,Veteran,1,1,2,$19.99
+TY14,2/3/2015,Deluxe,Paid Search,Veteran,1,1,7,$19.99
+TY14,2/3/2015,Deluxe,FI Channel,Veteran,1,1,0,$19.99
+TY14,2/3/2015,Deluxe,FI Channel,Veteran,1,1,0,$19.99
+TY14,2/3/2015,Deluxe,Organic Search,Veteran,1,1,8,$19.99
+TY14,2/3/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/3/2015,Deluxe,DR,Veteran,1,1,1,$19.99
+TY14,2/3/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$19.99
+TY14,2/3/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/3/2015,Free,DR,Veteran,1,1,3,$0.00
+TY14,2/3/2015,Free,Affiliate,Veteran,1,1,1,$0.00
+TY14,2/3/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/3/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,2/3/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,2/3/2015,H & B,Non-Campaign,Veteran,1,1,2,$99.99
+TY14,2/3/2015,H & B,Paid Search,Veteran,1,1,5,$99.99
+TY14,2/3/2015,Premier,Paid Search,Veteran,1,1,4,$59.99
+TY14,2/4/2015,(null),Non-Campaign,(null),1,0,3,(null)
+TY14,2/4/2015,(null),DR,(null),1,0,0,(null)
+TY14,2/4/2015,(null),Paid Search,(null),1,0,1,(null)
+TY14,2/4/2015,Deluxe,Organic Search,Veteran,1,1,3,$19.99
+TY14,2/4/2015,Deluxe,Paid Search,Veteran,1,1,3,$19.99
+TY14,2/4/2015,Deluxe,Organic Search,Veteran,1,1,2,$19.99
+TY14,2/4/2015,Deluxe,Organic Search,Veteran,1,1,2,$19.99
+TY14,2/4/2015,Deluxe,FI Channel,Veteran,1,1,3,$19.99
+TY14,2/4/2015,Deluxe,Non-Campaign,Veteran,1,1,5,$19.99
+TY14,2/4/2015,Deluxe,Paid Search,Veteran,1,1,0,$19.99
+TY14,2/4/2015,Deluxe,Paid Search,Veteran,1,1,0,$19.99
+TY14,2/4/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,2/4/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/4/2015,Free,Non-Campaign,Veteran,1,1,5,$0.00
+TY14,2/4/2015,Free,Paid Search,Veteran,1,1,5,$0.00
+TY14,2/4/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/4/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/4/2015,Free,Organic Search,Veteran,1,1,4,$0.00
+TY14,2/4/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/4/2015,Free,Organic Search,Veteran,1,1,4,$0.00
+TY14,2/4/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/4/2015,Free,Non-Campaign,Veteran,1,1,9,$0.00
+TY14,2/4/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,2/4/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,2/4/2015,Free,Display,Veteran,1,1,1,$0.00
+TY14,2/4/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,2/4/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,2/4/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,2/4/2015,Free,Paid Search,Veteran,1,1,6,$0.00
+TY14,2/4/2015,H & B,Non-Campaign,Veteran,1,1,3,$99.99
+TY14,2/5/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,2/5/2015,(null),DR,(null),1,0,(null),(null)
+TY14,2/5/2015,(null),Organic Search,(null),1,0,2,(null)
+TY14,2/5/2015,Deluxe,DR,Veteran,1,1,3,$19.99
+TY14,2/5/2015,Deluxe,Non-Campaign,Veteran,1,1,4,$19.99
+TY14,2/5/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/5/2015,Deluxe,Non-Campaign,Veteran,1,1,10,$19.99
+TY14,2/5/2015,Deluxe,Affiliate,Veteran,1,1,8,$19.99
+TY14,2/5/2015,Deluxe,Paid Search,Veteran,1,1,5,$19.99
+TY14,2/5/2015,Deluxe,Paid Search,Veteran,1,1,1,$19.99
+TY14,2/5/2015,Deluxe,Paid Search,New,1,1,2,$19.99
+TY14,2/5/2015,Free,Paid Search,New,1,1,1,$0.00
+TY14,2/5/2015,Free,Organic Search,New,1,1,1,$0.00
+TY14,2/5/2015,Free,Paid Search,New,1,1,4,$0.00
+TY14,2/5/2015,Free,Non-Campaign,New,1,1,4,$0.00
+TY14,2/5/2015,Free,Non-Campaign,New,1,1,4,$0.00
+TY14,2/5/2015,Free,Non-Campaign,New,1,1,8,$0.00
+TY14,2/5/2015,Free,DR,New,1,1,0,$0.00
+TY14,2/5/2015,Free,Paid Search,New,1,1,2,$0.00
+TY14,2/6/2015,Deluxe,Paid Search,New,1,1,4,$19.99
+TY14,2/6/2015,Deluxe,Paid Search,New,1,1,3,$19.99
+TY14,2/6/2015,Deluxe,DR,New,1,1,3,$19.99
+TY14,2/6/2015,Deluxe,DR,Veteran,1,1,5,$19.99
+TY14,2/6/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$19.99
+TY14,2/6/2015,Deluxe,Paid Search,Veteran,1,1,0,$19.99
+TY14,2/6/2015,Deluxe,Non-Campaign,Veteran,1,1,5,$19.99
+TY14,2/6/2015,Deluxe,Paid Search,Veteran,1,1,1,$19.99
+TY14,2/6/2015,Deluxe,Paid Search,Veteran,1,1,1,$19.99
+TY14,2/6/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/6/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/6/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/6/2015,Free,DR,Veteran,1,1,2,$0.00
+TY14,2/6/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,2/6/2015,Premier,DR,Veteran,1,1,0,$59.99
+TY14,2/7/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,2/7/2015,(null),Affiliate,(null),1,0,(null),(null)
+TY14,2/7/2015,Deluxe,Affiliate,Veteran,1,1,2,$19.99
+TY14,2/7/2015,Deluxe,DR,Veteran,1,1,6,$19.99
+TY14,2/7/2015,Deluxe,DR,Veteran,1,1,2,$19.99
+TY14,2/7/2015,Deluxe,Paid Search,Veteran,1,1,3,$19.99
+TY14,2/7/2015,Deluxe,Non-Campaign,New,1,1,0,$19.99
+TY14,2/7/2015,Deluxe,Organic Search,New,1,1,0,$19.99
+TY14,2/7/2015,Deluxe,Non-Campaign,New,1,1,2,$19.99
+TY14,2/7/2015,Deluxe,Organic Search,New,1,1,1,$19.99
+TY14,2/7/2015,Free,Paid Search,New,1,1,1,$0.00
+TY14,2/7/2015,Free,Organic Search,Veteran,1,1,5,$0.00
+TY14,2/7/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/7/2015,Free,DR,Veteran,1,1,10,$0.00
+TY14,2/7/2015,Free,Affiliate,Veteran,1,1,0,$0.00
+TY14,2/8/2015,(null),Affiliate,(null),1,0,0,(null)
+TY14,2/8/2015,Deluxe,FI Channel,Veteran,1,1,3,$19.99
+TY14,2/8/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$19.99
+TY14,2/8/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/8/2015,Deluxe,Paid Search,Veteran,1,1,1,$19.99
+TY14,2/8/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/8/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/8/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/8/2015,Free,Paid Search,Veteran,1,1,0,$0.00
+TY14,2/8/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,2/8/2015,H & B,Paid Search,Veteran,1,1,10,$99.99
+TY14,2/9/2015,(null),DR,(null),1,0,0,(null)
+TY14,2/9/2015,Deluxe,Organic Search,Veteran,1,1,3,$19.99
+TY14,2/9/2015,Deluxe,Organic Search,Veteran,1,1,3,$19.99
+TY14,2/9/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/9/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/9/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/9/2015,Free,Non-Campaign,Veteran,1,1,9,$0.00
+TY14,2/9/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,2/9/2015,Free,DR,Veteran,1,1,3,$0.00
+TY14,2/9/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/9/2015,Free,Other,Veteran,1,1,1,$0.00
+TY14,2/9/2015,Premier,Non-Campaign,Veteran,1,1,6,$59.99
+TY14,2/10/2015,(null),DR,(null),1,0,0,(null)
+TY14,2/10/2015,(null),Paid Search,(null),1,0,1,(null)
+TY14,2/10/2015,Deluxe,Organic Search,Veteran,1,1,7,$19.99
+TY14,2/10/2015,Deluxe,DR,Veteran,1,1,6,$19.99
+TY14,2/10/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/10/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/10/2015,Deluxe,Organic Search,Veteran,1,1,5,$19.99
+TY14,2/10/2015,Free,DR,Veteran,1,1,3,$0.00
+TY14,2/10/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/10/2015,Free,DR,New,1,1,3,$0.00
+TY14,2/10/2015,Free,Organic Search,New,1,1,1,$0.00
+TY14,2/10/2015,Free,DR,New,1,1,3,$0.00
+TY14,2/10/2015,Free,Affiliate,New,1,1,4,$0.00
+TY14,2/10/2015,Free,Non-Campaign,New,1,1,2,$0.00
+TY14,2/10/2015,Free,DR,New,1,1,5,$0.00
+TY14,2/10/2015,H & B,Paid Search,New,1,1,2,$99.99
+TY14,2/10/2015,H & B,FI Channel,New,1,1,2,$99.99
+TY14,2/10/2015,Premier,Non-Campaign,Veteran,1,1,14,$59.99
+TY14,2/11/2015,Deluxe,Paid Search,Veteran,1,1,4,$19.99
+TY14,2/11/2015,Deluxe,Organic Search,Veteran,1,1,3,$19.99
+TY14,2/11/2015,Deluxe,DR,Veteran,1,1,2,$19.99
+TY14,2/11/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/11/2015,Deluxe,Paid Search,Veteran,1,1,1,$19.99
+TY14,2/11/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/11/2015,Deluxe,Non-Campaign,New,1,1,0,$19.99
+TY14,2/11/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/11/2015,Free,Paid Search,New,1,1,1,$0.00
+TY14,2/11/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/11/2015,Free,Paid Search,New,1,1,4,$0.00
+TY14,2/11/2015,Free,Paid Search,New,1,1,(null),$0.00
+TY14,2/11/2015,Free,Non-Campaign,New,1,1,0,$0.00
+TY14,2/11/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,2/11/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,2/11/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,2/12/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,2/12/2015,(null),DR,(null),1,0,(null),(null)
+TY14,2/12/2015,Deluxe,Organic Search,Veteran,1,1,7,$19.99
+TY14,2/12/2015,Deluxe,FI Channel,Veteran,1,1,0,$19.99
+TY14,2/12/2015,Deluxe,Display,Veteran,1,1,2,$19.99
+TY14,2/12/2015,Deluxe,DR,Veteran,1,1,4,$19.99
+TY14,2/12/2015,Deluxe,Paid Search,Veteran,1,1,5,$19.99
+TY14,2/12/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/12/2015,Deluxe,Paid Search,Veteran,1,1,1,$19.99
+TY14,2/12/2015,Deluxe,DR,New,1,1,0,$19.99
+TY14,2/12/2015,Deluxe,DR,New,1,1,4,$19.99
+TY14,2/12/2015,Deluxe,Organic Search,New,1,1,1,$19.99
+TY14,2/12/2015,Deluxe,DR,New,1,1,4,$19.99
+TY14,2/12/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/12/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/12/2015,Free,Paid Search,New,1,1,1,$0.00
+TY14,2/12/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/12/2015,Free,Paid Search,New,1,1,1,$0.00
+TY14,2/12/2015,Free,Paid Search,New,1,1,0,$0.00
+TY14,2/12/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,2/12/2015,Free,Display,Veteran,1,1,2,$0.00
+TY14,2/12/2015,Free,Paid Search,Veteran,1,1,11,$0.00
+TY14,2/12/2015,H & B,Organic Search,Veteran,1,1,2,$99.99
+TY14,2/13/2015,Deluxe,Organic Search,Veteran,1,1,3,$19.99
+TY14,2/13/2015,Deluxe,Paid Search,Veteran,1,1,3,$19.99
+TY14,2/13/2015,Deluxe,Paid Search,Veteran,1,1,0,$19.99
+TY14,2/13/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/13/2015,Deluxe,Paid Search,Veteran,1,1,0,$19.99
+TY14,2/13/2015,Deluxe,Non-Campaign,New,1,1,2,$19.99
+TY14,2/13/2015,Free,Paid Search,New,1,1,4,$0.00
+TY14,2/13/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/13/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/13/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/13/2015,Free,Organic Search,Veteran,1,1,0,$0.00
+TY14,2/13/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,2/13/2015,Free,DR,Veteran,1,1,0,$0.00
+TY14,2/14/2015,(null),DR,(null),1,0,0,(null)
+TY14,2/14/2015,Deluxe,Organic Search,Veteran,1,1,3,$19.99
+TY14,2/14/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/14/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/14/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/14/2015,Free,Organic Search,Veteran,1,1,4,$0.00
+TY14,2/14/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/14/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,2/14/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,2/14/2015,H & B,Non-Campaign,Veteran,1,1,2,$99.99
+TY14,2/15/2015,(null),Display,(null),1,0,(null),(null)
+TY14,2/15/2015,Deluxe,Organic Search,Veteran,1,1,3,$19.99
+TY14,2/15/2015,Deluxe,Paid Search,Veteran,1,1,2,$19.99
+TY14,2/15/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$19.99
+TY14,2/15/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/15/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/15/2015,Deluxe,Non-Campaign,New,1,1,5,$19.99
+TY14,2/15/2015,Deluxe,Paid Search,New,1,1,1,$19.99
+TY14,2/15/2015,Deluxe,Organic Search,New,1,1,2,$19.99
+TY14,2/15/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/15/2015,Free,Organic Search,New,1,1,2,$0.00
+TY14,2/15/2015,Free,Paid Search,New,1,1,2,$0.00
+TY14,2/15/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,2/15/2015,Free,FI Channel,Veteran,1,1,4,$0.00
+TY14,2/15/2015,Premier,DR,Veteran,1,1,13,$59.99
+TY14,2/16/2015,(null),DR,(null),1,0,(null),(null)
+TY14,2/16/2015,Deluxe,DR,Veteran,1,1,6,$19.99
+TY14,2/16/2015,Deluxe,Organic Search,Veteran,1,1,3,$19.99
+TY14,2/16/2015,Deluxe,DR,Veteran,1,1,(null),$19.99
+TY14,2/16/2015,Deluxe,DR,Veteran,1,1,(null),$19.99
+TY14,2/16/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,2/16/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,2/16/2015,Premier,DR,Veteran,1,1,1,$59.99
+TY14,2/16/2015,Premier,DR,Veteran,1,1,8,$59.99
+TY14,2/17/2015,(null),Affiliate,(null),1,0,(null),(null)
+TY14,2/17/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,2/17/2015,Deluxe,FI Channel,Veteran,1,1,1,$19.99
+TY14,2/17/2015,Deluxe,DR,Veteran,1,1,2,$19.99
+TY14,2/17/2015,Free,Affiliate,Veteran,1,1,3,$0.00
+TY14,2/17/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/17/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/18/2015,Deluxe,Affiliate,Veteran,1,1,2,$19.99
+TY14,2/18/2015,Deluxe,Organic Search,Veteran,1,1,4,$19.99
+TY14,2/18/2015,Deluxe,DR,Veteran,1,1,5,$19.99
+TY14,2/18/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/18/2015,Deluxe,DR,Veteran,1,1,1,$19.99
+TY14,2/18/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$19.99
+TY14,2/18/2015,Deluxe,Organic Search,Veteran,1,1,2,$19.99
+TY14,2/18/2015,Free,Non-Campaign,Veteran,1,1,5,$0.00
+TY14,2/18/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/18/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/18/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/18/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,2/18/2015,H & B,DR,Veteran,1,1,0,$99.99
+TY14,2/18/2015,H & B,Organic Search,Veteran,1,1,8,$99.99
+TY14,2/18/2015,Premier,Organic Search,Veteran,1,1,2,$59.99
+TY14,2/18/2015,Premier,FI Channel,Veteran,1,1,8,$59.99
+TY14,2/19/2015,(null),DR,(null),1,0,0,(null)
+TY14,2/19/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,2/19/2015,(null),Other,(null),1,0,0,(null)
+TY14,2/19/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,2/19/2015,Deluxe,DR,Veteran,1,1,3,$19.99
+TY14,2/19/2015,Deluxe,FI Channel,Veteran,1,1,1,$19.99
+TY14,2/19/2015,Deluxe,FI Channel,Veteran,1,1,2,$19.99
+TY14,2/19/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/19/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/19/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,2/19/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,2/19/2015,Free,Paid Search,Veteran,1,1,8,$0.00
+TY14,2/19/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,2/19/2015,Free,Affiliate,Veteran,1,1,1,$0.00
+TY14,2/19/2015,Premier,FI Channel,Veteran,1,1,1,$59.99
+TY14,2/20/2015,(null),Organic Search,(null),1,0,1,(null)
+TY14,2/20/2015,Deluxe,Organic Search,Veteran,1,1,6,$19.99
+TY14,2/20/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/20/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/20/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/20/2015,Free,Organic Search,Veteran,1,1,9,$0.00
+TY14,2/20/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/20/2015,Free,Organic Search,Veteran,1,1,3,$0.00
+TY14,2/20/2015,Free,Organic Search,Veteran,1,1,3,$0.00
+TY14,2/20/2015,Free,Paid Search,Veteran,1,1,6,$0.00
+TY14,2/20/2015,Premier,Non-Campaign,Veteran,1,1,6,$59.99
+TY14,2/21/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/21/2015,Deluxe,Paid Search,Veteran,1,1,0,$19.99
+TY14,2/21/2015,Deluxe,Non-Campaign,New,1,1,1,$19.99
+TY14,2/21/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/21/2015,Free,Organic Search,New,1,1,1,$0.00
+TY14,2/21/2015,Free,Paid Search,New,1,1,1,$0.00
+TY14,2/21/2015,Free,Paid Search,New,1,1,5,$0.00
+TY14,2/21/2015,Free,Paid Search,New,1,1,4,$0.00
+TY14,2/21/2015,Free,Organic Search,New,1,1,1,$0.00
+TY14,2/21/2015,Free,Non-Campaign,New,1,1,3,$0.00
+TY14,2/21/2015,Free,Paid Search,New,1,1,2,$0.00
+TY14,2/21/2015,Free,Paid Search,New,1,1,2,$0.00
+TY14,2/21/2015,H & B,Non-Campaign,New,1,1,2,$99.99
+TY14,2/22/2015,Deluxe,Non-Campaign,New,1,1,3,$19.99
+TY14,2/22/2015,Deluxe,Organic Search,New,1,1,3,$19.99
+TY14,2/22/2015,Deluxe,DR,New,1,1,6,$19.99
+TY14,2/22/2015,Deluxe,FI Channel,Veteran,1,1,1,$19.99
+TY14,2/22/2015,Deluxe,Non-Campaign,Veteran,1,1,4,$19.99
+TY14,2/22/2015,Deluxe,Paid Search,Veteran,1,1,2,$19.99
+TY14,2/22/2015,Deluxe,DR,Veteran,1,1,8,$19.99
+TY14,2/22/2015,Deluxe,FI Channel,Veteran,1,1,4,$19.99
+TY14,2/22/2015,Deluxe,Paid Search,Veteran,1,1,0,$19.99
+TY14,2/22/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,2/22/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,2/22/2015,Free,Paid Search,Veteran,1,1,0,$0.00
+TY14,2/22/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,2/22/2015,H & B,Non-Campaign,Veteran,1,1,3,$99.99
+TY14,2/22/2015,Premier,DR,Veteran,1,1,1,$59.99
+TY14,2/23/2015,(null),DR,(null),1,0,(null),(null)
+TY14,2/23/2015,Deluxe,Affiliate,Veteran,1,1,3,$19.99
+TY14,2/23/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$19.99
+TY14,2/23/2015,Deluxe,Organic Search,Veteran,1,1,3,$19.99
+TY14,2/23/2015,Deluxe,FI Channel,Veteran,1,1,5,$19.99
+TY14,2/23/2015,Deluxe,Paid Search,Veteran,1,1,1,$19.99
+TY14,2/23/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/23/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/23/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/23/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/23/2015,Free,FI Channel,Veteran,1,1,2,$0.00
+TY14,2/23/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/23/2015,Free,DR,Veteran,1,1,3,$0.00
+TY14,2/23/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,2/23/2015,Free,DR,Veteran,1,1,0,$0.00
+TY14,2/23/2015,Free,Display,Veteran,1,1,0,$0.00
+TY14,2/23/2015,Free,FI Channel,Veteran,1,1,1,$0.00
+TY14,2/23/2015,Free,DR,Veteran,1,1,2,$0.00
+TY14,2/23/2015,Premier,DR,Veteran,1,1,3,$59.99
+TY14,2/24/2015,(null),Non-Campaign,(null),1,0,3,(null)
+TY14,2/24/2015,Deluxe,FI Channel,Veteran,1,1,2,$19.99
+TY14,2/24/2015,Deluxe,Paid Search,Veteran,1,1,3,$19.99
+TY14,2/24/2015,Deluxe,Affiliate,Veteran,1,1,8,$19.99
+TY14,2/24/2015,Deluxe,Organic Search,Veteran,1,1,2,$19.99
+TY14,2/24/2015,Deluxe,Non-Campaign,New,1,1,0,$19.99
+TY14,2/24/2015,Deluxe,Paid Search,New,1,1,5,$19.99
+TY14,2/24/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/24/2015,Free,Organic Search,New,1,1,1,$0.00
+TY14,2/24/2015,Free,Non-Campaign,New,1,1,1,$0.00
+TY14,2/24/2015,Free,Paid Search,New,1,1,2,$0.00
+TY14,2/24/2015,Free,DR,New,1,1,5,$0.00
+TY14,2/24/2015,Free,DR,New,1,1,9,$0.00
+TY14,2/24/2015,Free,Paid Search,New,1,1,2,$0.00
+TY14,2/24/2015,H & B,Non-Campaign,New,1,1,3,$99.99
+TY14,2/24/2015,Premier,Non-Campaign,New,1,1,3,$59.99
+TY14,2/24/2015,Premier,Non-Campaign,New,1,1,2,$59.99
+TY14,2/25/2015,Deluxe,DR,New,1,1,6,$19.99
+TY14,2/25/2015,Deluxe,DR,New,1,1,2,$19.99
+TY14,2/25/2015,Deluxe,DR,Veteran,1,1,2,$19.99
+TY14,2/25/2015,Deluxe,Paid Search,Veteran,1,1,3,$19.99
+TY14,2/25/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/25/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/25/2015,Free,Non-Campaign,Veteran,1,1,(null),$0.00
+TY14,2/25/2015,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY14,2/26/2015,(null),DR,(null),1,0,0,(null)
+TY14,2/26/2015,Deluxe,DR,Veteran,1,1,5,$19.99
+TY14,2/26/2015,Deluxe,Organic Search,Veteran,1,1,1,$19.99
+TY14,2/26/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/26/2015,Free,Paid Search,Veteran,1,1,4,$0.00
+TY14,2/26/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/26/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,2/26/2015,Free,DR,Veteran,1,1,2,$0.00
+TY14,2/26/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,2/26/2015,H & B,DR,Veteran,1,1,0,$99.99
+TY14,2/26/2015,H & B,Organic Search,Veteran,1,1,3,$99.99
+TY14,2/26/2015,Premier,FI Channel,Veteran,1,1,6,$59.99
+TY14,2/27/2015,(null),Paid Search,(null),1,0,2,(null)
+TY14,2/27/2015,Deluxe,Non-Campaign,Veteran,1,1,7,$19.99
+TY14,2/27/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$19.99
+TY14,2/27/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/27/2015,Deluxe,Non-Campaign,Veteran,1,1,2,$19.99
+TY14,2/27/2015,Deluxe,Paid Search,Veteran,1,1,1,$19.99
+TY14,2/27/2015,Deluxe,Organic Search,Veteran,1,1,0,$19.99
+TY14,2/27/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$19.99
+TY14,2/27/2015,H & B,Paid Search,Veteran,1,1,4,$99.99
+TY14,2/28/2015,(null),DR,(null),1,0,0,(null)
+TY14,2/28/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$19.99
+TY14,2/28/2015,Deluxe,Organic Search,Veteran,1,1,9,$19.99
+TY14,2/28/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,2/28/2015,Premier,DR,Veteran,1,1,1,$59.99
+TY14,2/28/2015,Premier,Organic Search,Veteran,1,1,4,$59.99
+TY14,3/1/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/1/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/1/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/1/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,3/1/2015,H & B,Paid Search,Veteran,1,1,4,$99.99
+TY14,3/2/2015,(null),DR,(null),1,0,0,(null)
+TY14,3/2/2015,Deluxe,DR,Veteran,1,1,1,$39.99
+TY14,3/2/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,3/2/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/2/2015,Free,FI Channel,Veteran,1,1,2,$0.00
+TY14,3/2/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/2/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/2/2015,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY14,3/2/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,3/3/2015,Deluxe,DR,Veteran,1,1,6,$39.99
+TY14,3/3/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,3/3/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,3/3/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,3/3/2015,Deluxe,DR,Veteran,1,1,1,$39.99
+TY14,3/3/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,3/3/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/3/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/3/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/3/2015,Free,Organic Search,Veteran,1,1,4,$0.00
+TY14,3/3/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,3/3/2015,Free,Paid Search,Veteran,1,1,3,$0.00
+TY14,3/3/2015,Free,Paid Search,Veteran,1,1,6,$0.00
+TY14,3/3/2015,H & B,DR,Veteran,1,1,6,$99.99
+TY14,3/3/2015,H & B,Organic Search,Veteran,1,1,1,$99.99
+TY14,3/3/2015,Premier,FI Channel,Veteran,1,1,2,$59.99
+TY14,3/4/2015,(null),Organic Search,(null),1,0,3,(null)
+TY14,3/4/2015,Deluxe,Organic Search,Veteran,1,1,4,$39.99
+TY14,3/4/2015,Deluxe,FI Channel,Veteran,1,1,0,$39.99
+TY14,3/4/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,3/4/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,3/4/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,3/4/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,3/4/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/4/2015,Free,Organic Search,Veteran,1,1,4,$0.00
+TY14,3/4/2015,Free,Paid Search,Veteran,1,1,0,$0.00
+TY14,3/4/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,3/4/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,3/4/2015,H & B,Paid Search,Veteran,1,1,2,$99.99
+TY14,3/5/2015,(null),DR,(null),1,0,0,(null)
+TY14,3/5/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,3/5/2015,Deluxe,FI Channel,Veteran,1,1,1,$39.99
+TY14,3/5/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,3/5/2015,Deluxe,FI Channel,Veteran,1,1,2,$39.99
+TY14,3/5/2015,Deluxe,Non-Campaign,Veteran,1,1,(null),$39.99
+TY14,3/5/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,3/5/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,3/5/2015,Deluxe,Organic Search,Veteran,1,1,6,$39.99
+TY14,3/5/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,3/5/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/5/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,3/5/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,3/5/2015,Free,FI Channel,Veteran,1,1,4,$0.00
+TY14,3/5/2015,Premier,DR,Veteran,1,1,0,$59.99
+TY14,3/5/2015,Premier,Organic Search,Veteran,1,1,2,$59.99
+TY14,3/5/2015,Premier,Non-Campaign,Veteran,1,1,2,$59.99
+TY14,3/6/2015,Deluxe,Paid Search,Veteran,1,1,7,$39.99
+TY14,3/6/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,3/6/2015,Free,Paid Search,Veteran,1,1,4,$0.00
+TY14,3/6/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/6/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/6/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/6/2015,Free,DR,Veteran,1,1,0,$0.00
+TY14,3/6/2015,Free,DR,Veteran,1,1,9,$0.00
+TY14,3/6/2015,Free,Organic Search,Veteran,1,1,10,$0.00
+TY14,3/6/2015,Premier,Paid Search,Veteran,1,1,3,$59.99
+TY14,3/7/2015,(null),Non-Campaign,(null),1,0,1,(null)
+TY14,3/7/2015,Deluxe,DR,Veteran,1,1,7,$39.99
+TY14,3/7/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/7/2015,Free,Affiliate,Veteran,1,1,4,$0.00
+TY14,3/7/2015,Free,Affiliate,Veteran,1,1,3,$0.00
+TY14,3/7/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,3/7/2015,Free,Other,Veteran,1,1,1,$0.00
+TY14,3/7/2015,Premier,Organic Search,Veteran,1,1,2,$59.99
+TY14,3/8/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,3/8/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,3/8/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,3/8/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/8/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/8/2015,Free,Affiliate,Veteran,1,1,1,$0.00
+TY14,3/8/2015,H & B,FI Channel,Veteran,1,1,4,$99.99
+TY14,3/8/2015,Premier,Non-Campaign,Veteran,1,1,6,$59.99
+TY14,3/8/2015,Premier,Non-Campaign,Veteran,1,1,2,$59.99
+TY14,3/9/2015,Deluxe,FI Channel,Veteran,1,1,0,$39.99
+TY14,3/9/2015,Deluxe,Non-Campaign,Veteran,1,1,4,$39.99
+TY14,3/9/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,3/9/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/9/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,3/9/2015,Free,DR,Veteran,1,1,2,$0.00
+TY14,3/9/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,3/9/2015,H & B,Non-Campaign,Veteran,1,1,6,$99.99
+TY14,3/9/2015,Premier,Non-Campaign,Veteran,1,1,2,$59.99
+TY14,3/10/2015,Deluxe,Organic Search,Veteran,1,1,3,$39.99
+TY14,3/10/2015,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY14,3/10/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/10/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/10/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/10/2015,Free,Affiliate,Veteran,1,1,2,$0.00
+TY14,3/10/2015,Free,Paid Search,Veteran,1,1,3,$0.00
+TY14,3/10/2015,H & B,Display,Veteran,1,1,4,$99.99
+TY14,3/10/2015,Premier,Non-Campaign,Veteran,1,1,2,$59.99
+TY14,3/11/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,3/11/2015,Deluxe,Paid Search,Veteran,1,1,5,$39.99
+TY14,3/11/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,3/11/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/11/2015,Free,Paid Search,Veteran,1,1,0,$0.00
+TY14,3/11/2015,H & B,Organic Search,Veteran,1,1,1,$99.99
+TY14,3/12/2015,Deluxe,Non-Campaign,Veteran,1,1,(null),$39.99
+TY14,3/12/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/12/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/12/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,3/12/2015,Free,Affiliate,Veteran,1,1,0,$0.00
+TY14,3/13/2015,(null),Paid Search,(null),1,0,10,(null)
+TY14,3/13/2015,Deluxe,Organic Search,Veteran,1,1,3,$39.99
+TY14,3/13/2015,Deluxe,Non-Campaign,Veteran,1,1,4,$39.99
+TY14,3/13/2015,Deluxe,Paid Search,Veteran,1,1,12,$39.99
+TY14,3/13/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,3/13/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,3/13/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,3/13/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,3/14/2015,Deluxe,Non-Campaign,Veteran,1,1,7,$39.99
+TY14,3/14/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,3/14/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/15/2015,Deluxe,FI Channel,Veteran,1,1,2,$39.99
+TY14,3/15/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,3/15/2015,Free,Paid Search,Veteran,1,1,6,$0.00
+TY14,3/15/2015,Premier,Paid Search,Veteran,1,1,4,$59.99
+TY14,3/16/2015,(null),DR,(null),1,0,(null),(null)
+TY14,3/16/2015,(null),Affiliate,(null),1,0,1,(null)
+TY14,3/16/2015,(null),DR,(null),1,0,0,(null)
+TY14,3/16/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,3/16/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/16/2015,Free,Organic Search,Veteran,1,1,3,$0.00
+TY14,3/17/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,3/17/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/17/2015,Free,Paid Search,Veteran,1,1,6,$0.00
+TY14,3/17/2015,H & B,DR,Veteran,1,1,11,$99.99
+TY14,3/18/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,3/18/2015,Deluxe,DR,Veteran,1,1,3,$39.99
+TY14,3/18/2015,Deluxe,Organic Search,Veteran,1,1,4,$39.99
+TY14,3/18/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,3/18/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,3/18/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,3/18/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,3/18/2015,Free,Paid Search,Veteran,1,1,3,$0.00
+TY14,3/18/2015,H & B,Organic Search,Veteran,1,1,4,$99.99
+TY14,3/18/2015,Premier,Non-Campaign,Veteran,1,1,2,$59.99
+TY14,3/19/2015,(null),DR,(null),1,0,0,(null)
+TY14,3/19/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,3/19/2015,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY14,3/19/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,3/19/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,3/19/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/19/2015,Free,Organic Search,Veteran,1,1,7,$0.00
+TY14,3/19/2015,Free,Organic Search,Veteran,1,1,11,$0.00
+TY14,3/19/2015,Premier,FI Channel,Veteran,1,1,5,$59.99
+TY14,3/19/2015,Premier,Organic Search,Veteran,1,1,6,$59.99
+TY14,3/19/2015,Premier,Organic Search,Veteran,1,1,4,$59.99
+TY14,3/19/2015,Premier,DR,Veteran,1,1,7,$59.99
+TY14,3/20/2015,(null),Organic Search,(null),1,0,6,(null)
+TY14,3/20/2015,Deluxe,FI Channel,Veteran,1,1,0,$39.99
+TY14,3/20/2015,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY14,3/20/2015,Deluxe,Non-Campaign,Veteran,1,1,6,$39.99
+TY14,3/20/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/20/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/20/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/20/2015,Free,DR,Veteran,1,1,0,$0.00
+TY14,3/21/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,3/21/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/21/2015,Premier,FI Channel,Veteran,1,1,14,$59.99
+TY14,3/21/2015,Premier,DR,Veteran,1,1,3,$59.99
+TY14,3/22/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,3/22/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,3/22/2015,Free,DR,Veteran,1,1,7,$0.00
+TY14,3/22/2015,Free,Affiliate,Veteran,1,1,(null),$0.00
+TY14,3/23/2015,(null),DR,(null),1,0,(null),(null)
+TY14,3/23/2015,Deluxe,Non-Campaign,Veteran,1,1,4,$39.99
+TY14,3/23/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,3/23/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,3/23/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/23/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/23/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/23/2015,Premier,Paid Search,Veteran,1,1,10,$59.99
+TY14,3/24/2015,Deluxe,DR,Veteran,1,1,10,$39.99
+TY14,3/24/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/24/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/24/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,3/24/2015,Premier,DR,Veteran,1,1,5,$59.99
+TY14,3/24/2015,Premier,Paid Search,Veteran,1,1,6,$59.99
+TY14,3/25/2015,(null),Affiliate,(null),1,0,(null),(null)
+TY14,3/25/2015,Deluxe,Non-Campaign,Veteran,1,1,4,$39.99
+TY14,3/25/2015,Deluxe,Organic Search,Veteran,1,1,3,$39.99
+TY14,3/25/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,3/25/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,3/25/2015,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY14,3/25/2015,Deluxe,Organic Search,Veteran,1,1,2,$39.99
+TY14,3/25/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/25/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/25/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/25/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,3/25/2015,H & B,Affiliate,Veteran,1,1,2,$99.99
+TY14,3/25/2015,Premier,DR,Veteran,1,1,1,$59.99
+TY14,3/26/2015,(null),FI Channel,(null),1,0,0,(null)
+TY14,3/26/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/27/2015,Free,Organic Search,Veteran,1,1,(null),$0.00
+TY14,3/27/2015,Free,Paid Search,Veteran,1,1,5,$0.00
+TY14,3/27/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,3/27/2015,Premier,Organic Search,Veteran,1,1,2,$59.99
+TY14,3/27/2015,Premier,Non-Campaign,Veteran,1,1,4,$59.99
+TY14,3/28/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/28/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,3/28/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,3/28/2015,Free,Affiliate,Veteran,1,1,0,$0.00
+TY14,3/28/2015,Premier,Affiliate,Veteran,1,1,0,$59.99
+TY14,3/28/2015,Premier,DR,Veteran,1,1,5,$59.99
+TY14,3/29/2015,(null),DR,(null),1,0,0,(null)
+TY14,3/29/2015,Deluxe,FI Channel,Veteran,1,1,0,$39.99
+TY14,3/29/2015,Deluxe,FI Channel,Veteran,1,1,1,$39.99
+TY14,3/29/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,3/29/2015,Free,Organic Search,Veteran,1,1,8,$0.00
+TY14,3/29/2015,Free,FI Channel,Veteran,1,1,3,$0.00
+TY14,3/29/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,3/29/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,3/29/2015,Premier,Paid Search,Veteran,1,1,10,$59.99
+TY14,3/29/2015,Premier,FI Channel,Veteran,1,1,4,$59.99
+TY14,3/29/2015,Premier,Non-Campaign,Veteran,1,1,2,$59.99
+TY14,3/30/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,3/30/2015,Deluxe,Paid Search,Veteran,1,1,0,$39.99
+TY14,3/30/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,3/30/2015,Free,Organic Search,Veteran,1,1,0,$0.00
+TY14,3/31/2015,(null),Affiliate,(null),1,0,(null),(null)
+TY14,3/31/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,3/31/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,4/1/2015,Deluxe,Paid Search,Veteran,1,1,3,$39.99
+TY14,4/1/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,4/1/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/1/2015,Free,DR,Veteran,1,1,7,$0.00
+TY14,4/1/2015,Free,DR,Veteran,1,1,2,$0.00
+TY14,4/1/2015,Free,Organic Search,Veteran,1,1,3,$0.00
+TY14,4/2/2015,(null),DR,(null),1,0,(null),(null)
+TY14,4/2/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,4/2/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/2/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,4/2/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,4/2/2015,Premier,FI Channel,Veteran,1,1,4,$59.99
+TY14,4/3/2015,(null),DR,(null),1,0,3,(null)
+TY14,4/3/2015,(null),Organic Search,(null),1,0,1,(null)
+TY14,4/3/2015,Deluxe,FI Channel,Veteran,1,1,5,$39.99
+TY14,4/3/2015,Deluxe,DR,Veteran,1,1,1,$39.99
+TY14,4/4/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/4/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/4/2015,Free,Paid Search,Veteran,1,1,5,$0.00
+TY14,4/4/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,4/4/2015,H & B,FI Channel,Veteran,1,1,6,$99.99
+TY14,4/4/2015,Premier,DR,Veteran,1,1,5,$59.99
+TY14,4/5/2015,Deluxe,Paid Search,Veteran,1,1,8,$39.99
+TY14,4/5/2015,Deluxe,Organic Search,Veteran,1,1,5,$39.99
+TY14,4/5/2015,Deluxe,DR,Veteran,1,1,4,$39.99
+TY14,4/5/2015,Deluxe,DR,Veteran,1,1,4,$39.99
+TY14,4/5/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/5/2015,Free,Organic Search,Veteran,1,1,0,$0.00
+TY14,4/5/2015,H & B,Non-Campaign,Veteran,1,1,8,$99.99
+TY14,4/5/2015,Premier,FI Channel,Veteran,1,1,4,$59.99
+TY14,4/5/2015,Premier,Paid Search,Veteran,1,1,1,$59.99
+TY14,4/6/2015,(null),Affiliate,(null),1,0,(null),(null)
+TY14,4/6/2015,(null),DR,(null),1,0,(null),(null)
+TY14,4/6/2015,(null),DR,(null),1,0,(null),(null)
+TY14,4/6/2015,Deluxe,DR,Veteran,1,1,3,$39.99
+TY14,4/6/2015,Deluxe,Paid Search,Veteran,1,1,4,$39.99
+TY14,4/6/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,4/6/2015,Deluxe,Paid Search,Veteran,1,1,2,$39.99
+TY14,4/6/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/6/2015,Free,Paid Search,Veteran,1,1,5,$0.00
+TY14,4/6/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/6/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/6/2015,Free,Paid Search,Veteran,1,1,4,$0.00
+TY14,4/6/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,4/7/2015,(null),Display,(null),1,0,0,(null)
+TY14,4/7/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,4/7/2015,(null),DR,(null),1,0,2,(null)
+TY14,4/7/2015,Deluxe,DR,Veteran,1,1,6,$39.99
+TY14,4/7/2015,Deluxe,Non-Campaign,Veteran,1,1,7,$39.99
+TY14,4/7/2015,Deluxe,Paid Search,Veteran,1,1,3,$39.99
+TY14,4/7/2015,Deluxe,Non-Campaign,Veteran,1,1,(null),$39.99
+TY14,4/7/2015,Deluxe,Organic Search,Veteran,1,1,5,$39.99
+TY14,4/7/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/7/2015,Free,Organic Search,Veteran,1,1,(null),$0.00
+TY14,4/7/2015,Free,Organic Search,Veteran,1,1,0,$0.00
+TY14,4/7/2015,Free,Affiliate,Veteran,1,1,0,$0.00
+TY14,4/8/2015,(null),Affiliate,(null),1,0,(null),(null)
+TY14,4/8/2015,Deluxe,FI Channel,Veteran,1,1,0,$39.99
+TY14,4/8/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,4/8/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,4/8/2015,Deluxe,Non-Campaign,Veteran,1,1,2,$39.99
+TY14,4/8/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/8/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,4/8/2015,H & B,Non-Campaign,Veteran,1,1,2,$99.99
+TY14,4/8/2015,H & B,Organic Search,Veteran,1,1,1,$99.99
+TY14,4/8/2015,Premier,DR,Veteran,1,1,0,$59.99
+TY14,4/8/2015,Premier,DR,Veteran,1,1,2,$59.99
+TY14,4/8/2015,Premier,DR,Veteran,1,1,0,$59.99
+TY14,4/9/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,4/9/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,4/9/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,4/9/2015,Free,Paid Search,Veteran,1,1,(null),$0.00
+TY14,4/9/2015,Free,FI Channel,Veteran,1,1,2,$0.00
+TY14,4/9/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/9/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/9/2015,Free,Paid Search,Veteran,1,1,5,$0.00
+TY14,4/9/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/9/2015,Premier,Paid Search,Veteran,1,1,4,$59.99
+TY14,4/10/2015,(null),Affiliate,(null),1,0,0,(null)
+TY14,4/10/2015,Deluxe,FI Channel,Veteran,1,1,0,$39.99
+TY14,4/10/2015,Free,Paid Search,Veteran,1,1,0,$0.00
+TY14,4/10/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,4/11/2015,(null),Organic Search,(null),1,0,2,(null)
+TY14,4/11/2015,(null),Affiliate,(null),1,0,0,(null)
+TY14,4/11/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,4/11/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,4/11/2015,Deluxe,FI Channel,Veteran,1,1,0,$39.99
+TY14,4/11/2015,Deluxe,FI Channel,Veteran,1,1,5,$39.99
+TY14,4/11/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,4/11/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,4/11/2015,Deluxe,Affiliate,Veteran,1,1,1,$39.99
+TY14,4/11/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/11/2015,Free,DR,Veteran,1,1,11,$0.00
+TY14,4/11/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/11/2015,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY14,4/11/2015,Free,DR,Veteran,1,1,1,$0.00
+TY14,4/11/2015,H & B,DR,Veteran,1,1,0,$99.99
+TY14,4/12/2015,(null),DR,(null),1,0,0,(null)
+TY14,4/12/2015,(null),DR,(null),1,0,0,(null)
+TY14,4/12/2015,(null),Paid Search,(null),1,0,0,(null)
+TY14,4/12/2015,Deluxe,Paid Search,Veteran,1,1,3,$39.99
+TY14,4/12/2015,Deluxe,DR,Veteran,1,1,6,$39.99
+TY14,4/12/2015,Deluxe,Non-Campaign,Veteran,1,1,7,$39.99
+TY14,4/12/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,4/12/2015,Deluxe,Organic Search,Veteran,1,1,1,$39.99
+TY14,4/12/2015,Deluxe,DR,Veteran,1,1,1,$39.99
+TY14,4/12/2015,Deluxe,DR,Veteran,1,1,1,$39.99
+TY14,4/12/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/12/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,4/12/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/12/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/12/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/12/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/12/2015,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY14,4/12/2015,Premier,DR,Veteran,1,1,7,$59.99
+TY14,4/13/2015,(null),DR,(null),1,0,1,(null)
+TY14,4/13/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,4/13/2015,(null),Display,(null),1,0,(null),(null)
+TY14,4/13/2015,(null),DR,(null),1,0,0,(null)
+TY14,4/13/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,4/13/2015,Deluxe,FI Channel,Veteran,1,1,1,$39.99
+TY14,4/13/2015,Deluxe,FI Channel,Veteran,1,1,1,$39.99
+TY14,4/13/2015,Deluxe,Paid Search,Veteran,1,1,4,$39.99
+TY14,4/13/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,4/13/2015,Deluxe,Affiliate,Veteran,1,1,2,$39.99
+TY14,4/13/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,4/13/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,4/13/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,4/13/2015,Deluxe,Organic Search,Veteran,1,1,5,$39.99
+TY14,4/13/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,4/13/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/13/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/13/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/13/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/13/2015,Free,Organic Search,Veteran,1,1,0,$0.00
+TY14,4/13/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,4/13/2015,Free,Display,Veteran,1,1,1,$0.00
+TY14,4/13/2015,Free,Organic Search,Veteran,1,1,2,$0.00
+TY14,4/13/2015,H & B,Non-Campaign,Veteran,1,1,3,$99.99
+TY14,4/13/2015,H & B,DR,Veteran,1,1,5,$99.99
+TY14,4/13/2015,Premier,Non-Campaign,Veteran,1,1,2,$59.99
+TY14,4/13/2015,Premier,Paid Search,Veteran,1,1,2,$59.99
+TY14,4/13/2015,Premier,DR,Veteran,1,1,1,$59.99
+TY14,4/14/2015,(null),Affiliate,(null),1,0,1,(null)
+TY14,4/14/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,4/14/2015,(null),DR,(null),1,0,(null),(null)
+TY14,4/14/2015,(null),DR,(null),1,0,0,(null)
+TY14,4/14/2015,(null),DR,(null),1,0,0,(null)
+TY14,4/14/2015,(null),Affiliate,(null),1,0,(null),(null)
+TY14,4/14/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,4/14/2015,Deluxe,Organic Search,Veteran,1,1,4,$39.99
+TY14,4/14/2015,Deluxe,Organic Search,Veteran,1,1,3,$39.99
+TY14,4/14/2015,Deluxe,Paid Search,Veteran,1,1,3,$39.99
+TY14,4/14/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,4/14/2015,Deluxe,Organic Search,Veteran,1,1,3,$39.99
+TY14,4/14/2015,Deluxe,DR,Veteran,1,1,1,$39.99
+TY14,4/14/2015,Deluxe,Non-Campaign,Veteran,1,1,0,$39.99
+TY14,4/14/2015,Deluxe,Paid Search,Veteran,1,1,1,$39.99
+TY14,4/14/2015,Free,Non-Campaign,Veteran,1,1,4,$0.00
+TY14,4/14/2015,Free,Non-Campaign,Veteran,1,1,5,$0.00
+TY14,4/14/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/14/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/14/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/14/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/14/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/14/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/14/2015,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY14,4/14/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/14/2015,Free,Display,Veteran,1,1,4,$0.00
+TY14,4/14/2015,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY14,4/14/2015,Free,Non-Campaign,Veteran,1,1,7,$0.00
+TY14,4/14/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,4/14/2015,Free,Other,Veteran,1,1,2,$0.00
+TY14,4/14/2015,Free,Paid Search,Veteran,1,1,6,$0.00
+TY14,4/14/2015,Free,Non-Campaign,Veteran,1,1,3,$0.00
+TY14,4/14/2015,H & B,DR,Veteran,1,1,0,$99.99
+TY14,4/14/2015,H & B,Other,Veteran,1,1,0,$99.99
+TY14,4/14/2015,H & B,Organic Search,Veteran,1,1,6,$99.99
+TY14,4/14/2015,H & B,Organic Search,Veteran,1,1,13,$99.99
+TY14,4/14/2015,Premier,DR,Veteran,1,1,9,$59.99
+TY14,4/14/2015,Premier,DR,Veteran,1,1,5,$59.99
+TY14,4/14/2015,Premier,DR,Veteran,1,1,5,$59.99
+TY14,4/14/2015,Premier,DR,Veteran,1,1,1,$59.99
+TY14,4/15/2015,(null),DR,(null),1,0,0,(null)
+TY14,4/15/2015,(null),Affiliate,(null),1,0,(null),(null)
+TY14,4/15/2015,(null),Other,(null),1,0,(null),(null)
+TY14,4/15/2015,(null),Non-Campaign,(null),1,0,2,(null)
+TY14,4/15/2015,(null),DR,(null),1,0,0,(null)
+TY14,4/15/2015,(null),Affiliate,(null),1,0,1,(null)
+TY14,4/15/2015,(null),Affiliate,(null),1,0,0,(null)
+TY14,4/15/2015,(null),Display,(null),1,0,14,(null)
+TY14,4/15/2015,(null),DR,(null),1,0,0,(null)
+TY14,4/15/2015,(null),Non-Campaign,(null),1,0,3,(null)
+TY14,4/15/2015,Deluxe,Non-Campaign,Veteran,1,1,4,$39.99
+TY14,4/15/2015,Deluxe,Non-Campaign,Veteran,1,1,3,$39.99
+TY14,4/15/2015,Deluxe,DR,Veteran,1,1,2,$39.99
+TY14,4/15/2015,Deluxe,DR,Veteran,1,1,4,$39.99
+TY14,4/15/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,4/15/2015,Deluxe,Non-Campaign,Veteran,1,1,1,$39.99
+TY14,4/15/2015,Deluxe,Paid Search,Veteran,1,1,(null),$39.99
+TY14,4/15/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,4/15/2015,Deluxe,Non-Campaign,Veteran,1,1,5,$39.99
+TY14,4/15/2015,Deluxe,Organic Search,Veteran,1,1,0,$39.99
+TY14,4/15/2015,Free,Paid Search,Veteran,1,1,1,$0.00
+TY14,4/15/2015,Free,Paid Search,Veteran,1,1,4,$0.00
+TY14,4/15/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/15/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/15/2015,Free,Organic Search,Veteran,1,1,1,$0.00
+TY14,4/15/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/15/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/15/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/15/2015,Free,DR,Veteran,1,1,(null),$0.00
+TY14,4/15/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,4/15/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,4/15/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,4/15/2015,Free,Organic Search,Veteran,1,1,6,$0.00
+TY14,4/15/2015,Free,Paid Search,Veteran,1,1,3,$0.00
+TY14,4/15/2015,Free,Non-Campaign,Veteran,1,1,2,$0.00
+TY14,4/15/2015,Free,DR,Veteran,1,1,0,$0.00
+TY14,4/15/2015,H & B,DR,Veteran,1,1,0,$99.99
+TY14,4/15/2015,H & B,Non-Campaign,Veteran,1,1,10,$99.99
+TY14,4/15/2015,H & B,Display,Veteran,1,1,2,$99.99
+TY14,4/15/2015,H & B,Non-Campaign,Veteran,1,1,8,$99.99
+TY14,4/15/2015,Premier,DR,Veteran,1,1,0,$59.99
+TY14,4/15/2015,Premier,Non-Campaign,Veteran,1,1,2,$59.99
+TY14,4/15/2015,Premier,Non-Campaign,Veteran,1,1,16,$59.99
+TY14,4/15/2015,Premier,Organic Search,Veteran,1,1,4,$59.99
+TY14,4/16/2015,Deluxe,Paid Search,Veteran,1,1,4,$39.99
+TY14,4/16/2015,Free,Non-Campaign,Veteran,1,1,1,$0.00
+TY14,4/16/2015,Free,Organic Search,Veteran,1,1,5,$0.00
+TY14,4/16/2015,Free,Non-Campaign,Veteran,1,1,0,$0.00
+TY14,4/16/2015,Free,Paid Search,Veteran,1,1,2,$0.00
+TY14,4/16/2015,Free,FI Channel,Veteran,1,1,1,$0.00

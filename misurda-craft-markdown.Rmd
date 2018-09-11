@@ -1,0 +1,354 @@
+---
+title: "Craft Presentation"
+author: "Samantha L. Misurda"
+date: "August 31, 2018"
+output: html_document
+---
+
+###Initial Setup
+Before beginning to analyze the data, I have a bit of initial data cleaning:
+ 
+ * Transforming the data to use a Date type as opposed to a string
+ 
+ * Adding a Month column for easy grouping
+ 
+ * Changing Price to a decimal, currency value
+
+Slightly controversial, but I will also be filtering out incomplete records for use in some of my analysis steps. R treats the (null) string specified in the original data as a string value, so incomplete records will instead be treated as having a value of NA. 
+```{r echo=FALSE, message=FALSE}
+library(ggplot2)
+library(plyr)
+library(dplyr)
+library(knitr)
+library(caret)
+library(e1071)
+library(pROC)
+library(mice)
+options(digits=4)
+
+# Load the data, transforming to CSV
+data <- read.csv("data.csv")
+
+# Transform data to use Date instead of string
+dates <- data$Login.Date
+dates <- as.Date(dates, "%m/%d/%Y")
+data$Login.Date <- dates
+
+data <- mutate(data, month = as.factor(format(Login.Date, "%m")))
+data <- data %>% group_by(month)
+levels(data$month) <- c("January","February","March", "April", "December")
+
+# Change price to a decimal
+data$Price <- as.double(sub('$','',as.character(data$Price),fixed=TRUE))
+
+# Filter out incomplete records
+filtered.data <- na.omit(data)
+
+```
+
+
+
+###Prepare a quick summary that highlights some relevant features. One idea (among many) of the things that 	might be interesting to include: which customers and marketing channels are most valuable?
+
+```{r}
+summary(filtered.data)
+```
+Some key items to note: 
+
+ * Slightly more sales in 2014 (possibly due to the promotion)
+
+ * Most uses are for the free product, but the deluxe version is the best selling paid product
+
+ * Overwhelmingly the customers are product veterans
+
+ * February sees the highest amount of purchases/initial logins
+
+ * The average user logs in twice
+
+```{r echo=FALSE}
+sales.by.product <- filtered.data
+sales.by.product <- ungroup(sales.by.product) %>%
+count(Completed_Product, Price) %>%
+mutate(total.sales = n * Price)
+names(sales.by.product) <- c( "Product", "Price", "Number of Sales", "Total Sales")
+
+sales.by.product <- sales.by.product %>% group_by(Product)
+kable(sales.by.product, caption = "Sales by Product Type")
+# The non-promo Deluxe edition has clearly generated the most profit over the two tax years that we have recorded.
+```
+
+When examining individual products, the free version has garnered the highest user count, but obviously generated no direct revenue. With the higher price, the non-promo period Deluxe Edition has earned us the most. A logical next step is to examine where the users are coming from, or to put it bluntly, what Intuit's marketing budget is providing.
+
+```{r echo=FALSE}
+sales.by.channel <- filtered.data
+sales.by.channel <- ungroup(sales.by.channel) %>%
+count(Marketing_Channel, Price) %>%
+mutate(total.sales = n * Price)
+names(sales.by.channel) <- c( "Marketing_Channel", "Price", "Number_of_Sales", "Total_Sales")
+
+sales.by.channel <- sales.by.channel %>% group_by(Marketing_Channel)
+kable(sales.by.channel, caption="Per Product Sales by Marketing Channel")
+```
+
+The table above is a bit busy, so let's roll up by channel, as opposed to that level of granularity
+
+```{r echo=FALSE}
+aggregated.sales.by.channel <- aggregate(sales.by.channel$Total_Sales, by=list(Marketing_Channel=sales.by.channel$Marketing_Channel), FUN=sum)
+names(aggregated.sales.by.channel) <- c( "Marketing Channel", "Total Sales")
+kable(aggregated.sales.by.channel, caption = "Marketing Channel Sales - Aggregate")
+```
+
+Most money has been generated from non-campaign marketing. But what's up with internal? 
+```{r}
+kable(subset(filtered.data, filtered.data$Marketing_Channel == "Internal"))
+```
+False alarm, this is just one record for a Free version user.
+
+### We ran a discount promotion on one product in early 2015. Can you describe the promotion and make a recommendation as to whether it was successful? Should we run a similar promotion next year?
+
+We're trying to figure out what the promotion is, so let's start by filtering out only the tax year 14 entries that paid for the product. 
+```{r}
+ty14.data <- subset(filtered.data, Tax.Year == "TY14" & Completed_Product != "Free")
+table(ty14.data$Price, ty14.data$month)
+```
+
+The promotion seems to be a price break ($19.99 as opposed to $39.99) on the Deluxe edition in the month of February. To get a better idea of what's going on, let's just look at the sales of the Deluxe Edition, separating those that purchased during the promo period, and those that did not.
+
+Let's take a look at the sales numbers:
+
+```{r echo=FALSE}
+deluxe.edition.sales <- subset(ty14.data, Completed_Product == "Deluxe")
+promo.group <- subset(deluxe.edition.sales, month == "February")
+non.promo.group <- subset(deluxe.edition.sales, month != "February")
+sales.nums <- c(length(promo.group$Login_Flag), length(non.promo.group$Login_Flag) )
+group.name <- c("Promotion", "Non-Promotion")
+temp.df <- data.frame(group.name, sales.nums)
+kable(temp.df,caption="Promotion Sales vs. Non-Promotion Sales")
+```
+
+
+```{r echo=FALSE}
+# Sales numbers by month for non promos
+non.promo.group.jan <- subset(non.promo.group,month == "January")
+non.promo.group.mar <- subset(non.promo.group, month == "March")
+non.promo.group.apr <- subset(non.promo.group, month == "April")
+sales.nums <- c(length(non.promo.group.jan$Login_Flag), length(promo.group$Login_Flag), length(non.promo.group.mar$Login_Flag), length(non.promo.group.apr$Login_Flag))
+months <- c("January", "February", "March", "April")
+temp.df <- data.frame(months, sales.nums)
+kable(temp.df,caption="Deluxe Edition Sales Count by Month")
+```
+
+Splitting the data set into months, we note that it looks like sales numbers roughly tripled during the promotion, but the profit seems a little low. To attempt an Apples to Apples comparison, we can treat the 165 customers in the Feb. promo group as an average over the remaining 3 months, giving a rate of 165/3 = 55 customers a month. 55 customers x $39 for the normal rate would provide roughly $2145 in revenue for an average month. 
+
+The promo generated $19 x 165 customers, which is $3135. The promotion boosted customers significantly, and we saw a 46% increase in sales (3135-2145, 990/2145, * 100).
+
+One last avenue to explore here would be whether or not the promotion attracted new customers, or merely served to retain veterans. 
+
+```{r echo=FALSE}
+kable(table(promo.group$CUSTOMER_TYPE), caption = "Promotion Sales by Customer Type")
+```
+
+Veterans likely would have purchased anyway, and instead they just spent less. With that being said, depending on the goal, (making money, versus growing customer base) this promotion was successful. I would ultimately recommend running this promotion again, but it may be more effective to target repeating customers and upsell them on a different version.
+
+###The company wants to grow the free product next year. Make a recommendation as to which marketing channel(s) we should invest in. Should we focus on a particular time of year?
+
+After filtering out only the free users from our dataset, we can generate some simple counts of which marketing channel drove traffic. 
+```{r echo=FALSE}
+free.users <- subset(data, Completed_Product == "Free")
+kable(table(free.users$Marketing_Channel),caption="All Free Users - Marketing Channel")
+
+# TY2013
+free.2013 <- subset(free.users, Tax.Year == "TY13")
+kable(table(free.2013$Marketing_Channel),caption="2013 Users - Marketing Channel")
+# TY2014
+free.2014 <- subset(free.users, Tax.Year == "TY14")
+kable(table(free.2014$Marketing_Channel), caption="2014 Users - Marketing Channel")
+
+``` 
+Simply put, it looks like non-campaign and paid search were the most popular overall. Can we figure out anything else about this? Maybe binning the data by month will offer some more insight:
+```{r echo=FALSE}
+ggplot(data=free.users, aes(x=Marketing_Channel, fill=month)) +
+  xlab("Marketing Channel") + ylab("Number of Customers") + 
+    theme(axis.text.x =
+                   element_text(size  = 10,
+                                angle = 45,
+                                hjust = 1,
+                                vjust = 1))+
+    ggtitle("Customer Acquisition from Marketing Channels \n By Month") +     
+    geom_bar(stat="count", position=position_dodge(), colour="black")
+
+
+```
+
+Again, the focus depends mostly on if we want to play to our strengths, or develop in a new area. The strongest categories are consistently non-campaign, and paid search, and all channels generate the most action in February. To attract a new group, we may wish to target "early birds" in January, or procrastinating users in April. 
+
+Perhaps by partnering with someone in our affiliate network, or existing product base during either of those times, we could add to the existing user base. For example, offering QuickBooks Online users a discount on their existing payroll services when they refer employees to the site. 
+
+It's interesting to note that organic search also produces a fair amount of customers. This indicates that we likely have a strong brand that customers are already familiar with. 
+
+
+
+###Apply an analytical technique that identifies features that predicts tax filling success (namely - Completed (column G) ). Explain the pros and cons of using the proposed technique?
+
+Since completed seems to be 1 for all records in the filtered data, we will use the full dataset for this question. The full data set has ``r length(which(data$Completed == 0)) `` users that did not complete, and ``r length(which(data$Completed == 1)) `` that did. With this in mind, values will be imputed where an entry is missing, more on this and its implications will be discussed at the end of the report.
+
+For this exercise, I will employ both a tree based classifier, as well as a regression approach. I am of the belief initially that the classifier will perform with more accuracy. 
+
+#### Pros and cons
+As with any model, GBMs have the potential to overfit the data, due to their branching. However, this is also a benefit, as non-linear relationships can be learned. Outliers (such as the 55 log in user), are also better controlled. Overfitting can be mitigated to some degree by using cross-validation, as we did.
+
+The regression model on the other hand is inherently kind of silly for data that has a binary outcome (either completed or did not), but it was still worth a shot. It's often simple, and is easy to get a model built and examined quickly, while avoiding some of the overfitting we encounter above. However, the model isn't particularly useful for categorical data, and regression as a whole performs poorly with non-linear relationships. 
+
+#### Workflow and Results
+
+Prior to beginning, as I mentioned, some records could benefit from imputed data. Mice is a well regarded R library that determines where samples are missing data, and assists with constructing values. In addition to imputing values, I have also massaged the data into numeric formats (as opposed to R's factor nonsense), stripped out some extraneous columns, and moved created a binary factor version of the Completed column, for use in the Boosted Tree model.
+```{r echo=FALSE}
+data.for.model <- data[, c(3,4,5,8,9,10, 7)] # Strip out silly columns
+kable(md.pattern(data.for.model), caption="Mice Output")
+# 262 are missing Completed_Product
+temp.mice <- mice(data.for.model)
+temp.data <- complete(temp.mice,1)
+data.for.model <- temp.data
+```
+
+```{r echo=FALSE}
+# Fixing data for use with a Binary Classifier 
+data.for.model$Marketing_Channel <- as.numeric(data.for.model$Marketing_Channel)
+data.for.model$CUSTOMER_TYPE <- as.numeric(data.for.model$CUSTOMER_TYPE)
+data.for.model$Completed_Product <- as.numeric(data.for.model$Completed_Product)
+data.for.model$month <- as.numeric(data.for.model$month)
+data.for.model$Completed2 <- ifelse(data.for.model$Completed==1,'yes','no')
+data.for.model$Completed2 <- as.factor(data.for.model$Completed2)
+```
+Initially, we note the proportions of completed records versus incomplete records:
+```{r}
+prop.table(table(data.for.model$Completed))
+```
+
+#####Tree Based - Generalized Boosted Regression Model
+```{r}
+# Split into training and testing set and set seed
+set.seed(999)
+splitIndex <- createDataPartition(data.for.model$Completed2, p = .75, list = FALSE, times = 1)
+trainDF <- data.for.model[ splitIndex,]
+testDF  <- data.for.model[-splitIndex,]
+
+# Establish tuning parameters
+train.control <- trainControl(method='cv', number=3, returnResamp='none', summaryFunction = twoClassSummary, classProbs = TRUE)
+
+predictors <- c("Completed_Product","Marketing_Channel","CUSTOMER_TYPE", "Session_Count","Price", "month")
+
+# train the model
+model <- train(trainDF[,predictors], trainDF$Completed2, 
+                  method='gbm', 
+                  trControl=train.control,  
+                  metric = "ROC",
+                  preProc = c("center", "scale"))
+
+summary(model)
+# Session count, marketing channel, and price seem to be important. Let's remember these for a linear model later.
+```
+
+```{r}
+# Make predictions
+predictions <- predict(object = model, testDF[,predictors], type = 'raw')
+print(postResample(pred=predictions, obs=as.factor(testDF$Completed2)))
+
+predictions <- predict(object = model, testDF[,predictors], type = 'prob')
+head(predictions)
+
+auc <- roc(ifelse(testDF$Completed2=="yes",1,0), predictions[[2]])
+print(auc$auc)
+
+# Model is pretty good AUC of 1 is perfect.
+```
+
+#####Regression Model
+```{r}
+train.control <- trainControl(method='cv', number=3, returnResamp='none')
+model <- train(trainDF[,predictors], trainDF$Completed, method='glmnet',  metric = "RMSE", trControl=train.control)
+
+predictions <- predict(model, testDF[,predictors])
+auc <- roc(testDF$Completed, predictions)
+print(auc$auc)
+
+# This model is worse, but we can maybe learn which variables contributed to the model
+plot(varImp(model,scale=F))
+
+# Same as the other model, session count, and product were important
+```
+As expected, the tree based model performed a bit better. In both cases, Session Count contributed heavily towards the model. The tree based approach also found Price and Marketing Channel, whereas the regression model cited Product as an additional factor of importance. 
+
+###Open-ended: Explore the data, and surprise us with a recommendation
+Throughout the other tasks, a few areas distracted me from the task at hand, and I made a note to explore them here. Firstly, and most obviously, I need to know a bit more about incomplete records.
+
+```{r}
+incomplete.records <- data[rowSums(is.na(data)) > 0,]
+
+# Determine which columns have the most NAs 
+for(i in 1:ncol(incomplete.records)){
+  cat(names(data[i]), " ",sum(is.na(incomplete.records[i])), "\n")
+}
+
+```
+
+The 88 records that have an incomplete session count are weird. Without knowing too many details, they seem to imply application failure. Below is a quick summary of those records: 
+```{r echo = FALSE}
+session.count.nas <- subset(incomplete.records, is.na(Session_Count))
+summary(session.count.nas)
+```
+Since the session count being empty is kind of weird, let's look at records that only have one field (that one) empty.
+```{r echo=FALSE}
+session.count.nas$na_count <- apply(is.na(session.count.nas), 1, sum)
+session.count.only <- subset(session.count.nas, na_count == 1) 
+kable(session.count.only)
+
+```
+There are a surprising amount of records that fit this criteria, but this data is a little funky. Why are there completed products listed if they have no logged in sessions recorded? Why are there no sessions recorded if there are no users that have a login flag of 0 -- better question, why are there no users in this data that have login_flag set to 0 in the entire dataset?
+
+Looking at the data for the session count null records just leaves me with a lot of questions. All of the records completed their use of the product, and seem to be a good cross section of users. This points to app failure in capturing both the login and session.
+
+Now that we've explored potential app failure for null records, maybe we should look at some of the legit dropoffs, and see what marketing channel brought them in, and what level product they were trying to use. Maybe they were unclear what they were receiving. Capturing a user but not keeping him might reflect the quality of the product.
+```{r echo=FALSE}
+kable(table(incomplete.records$Marketing_Channel))
+```
+
+Throughout our user base, non-campaign seems to be the biggest draw of customers, and this is no different in Incomplete Records Land. Without being a marketing expert, non-campaign suggests that someone just typed "intuit.com", similar to an organic search -- which is also high. These two channels being the most popular lead me to think that the users were brought to the site based on brand awareness. Let's look at them:
+
+```{r}
+
+marketing.nas <- subset(incomplete.records, Marketing_Channel == "Non-Campaign" | Marketing_Channel == "Organic Search")
+kable(subset(marketing.nas, Completed == 1))
+```
+Some weird things in this dataset.
+ 
+* There are some completed entries, all of which are veterans. In fact, there are no New customers.
+
+These are all in TY14 except 1, and are split across deluxe and the free edition. My guess is that there was some kind of error with logging the user behavior, and that they did in fact complete the process, without a session being created. 
+
+* There are some incomplete entries with session counts > 1
+
+A value of 2 indicates to me that someone logged in, tried the product, and then either got frustrated, or decided to seek professional help. However, we have no data on the products that they were using, which is unfortunate. I have nothing but speculation for the motives behind the user with the session_count of 21.
+```{r}
+kable(subset(marketing.nas, Completed == 0 & Session_Count > 1))
+```
+
+###What other datapoints would you like to have in order to better evaluate these questions? Make a recommendation as to the critical datapoints we should collect in addition to what's in this dataset.
+
+* Why customers signed up but never completed their task. This information could be used to potentially increase user friendliness and improve UX of the product.
+
+* Continuing in that area, what does (null) mean here? Does null mean "I started working on this, finished, and the system made a mistake.", or does it mean "I started working on this, and this product is awful. I'm closing my browser!"?
+
+* How much time a typical session lasts -- this may allow us to bin users, and create different workflows. For example, there is one user that has 55 session_counts. Maybe they could benefit from some guided assistance, or an accountant. 
+
+* Demographics, such as age, gender, and geographic region
+
+* Maybe focus on what factors influenced someone using the free product versus the paid versions. Can we convert, and what would it take to do so? After some initial research, it seems that Turbo Tax Freedom Edition is an option for lower earning individuals, so this may be a dead end.
+
+* Why are there no users in this data that have login_flag set to 0?
+
+###Areas of concern or contention
+* Choosing to use the filtered out dataset
+  * Didn't matter, I checked. Only really mattered for predicting, as all of the completed == 0 records were removed
+* Imputing data for the full dataset
+* I'm making a lot of assumptions about the product, and about marketing lingo. If I actually had this job, I would arrange to discuss these concerns with the appropriate individuals. 
